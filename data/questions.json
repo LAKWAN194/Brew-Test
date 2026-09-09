@@ -1,0 +1,2081 @@
+{
+  "title": "The Brew Test",
+  "questions": [
+    {
+      "id": "intro-1",
+      "section": "Introduction to Coffee",
+      "q": "Which of the following is the most consumed drink in the world? පහත සඳහන් දේවලින් ලෝකයේ වැඩියෙන්ම පරිභෝජනය කරන පානය කුමක්ද?",
+      "opts": [
+        "Beer බියර්",
+        "Tea තේ",
+        "Coffee කොපි",
+        "Soft Drinks සිසිල් බීම"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "intro-2",
+      "section": "Introduction to Coffee",
+      "q": "Coffee is considered to be originated in ? කෝපිවල මුලාරම්භය සිදුවූ බවට ලෙස සැලකෙන්නේ ?",
+      "opts": [
+        "Ethiopia ඉතියෝපියාව",
+        "Western Australia බටහිර ඔස්ට්‍රේලියාව",
+        "Nicaragua නිකරගුවාව",
+        "Nigeria නයිජීරියාව"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "intro-3",
+      "section": "Introduction to Coffee",
+      "q": "The earliest credible evidence of coffee-drinking was? ලිඛිත සාක්ෂි වලට අනුව මුලින්ම කෝපි පනය කල බවට   තොරතුරු වාර්ථා වන්නේ ?",
+      "opts": [
+        "13th century In Abu Dhabi දහතුන්වන සියවසේදී අබුඩාබි",
+        "10th century In Ethiopia දහවන සියවසේදී ඉතියෝපියාවේ",
+        "17th century In Europe දාහත්වන සියවසේදී යුරෝපයේ",
+        "15th century In Yemen පහළොස්වන සියවසේදී යේමනයේ"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "intro-4",
+      "section": "Introduction to Coffee",
+      "q": "What is the most popular coffee variety? වඩාත්ම ජනප්‍රිය කෝපි වර්ගය කුමක්ද?",
+      "opts": [
+        "Robusta රෝබුස්ටා",
+        "Arabica ඇරබිකා",
+        "Racemosa රසේමෝසා",
+        "Liberica ලයීබීරිකා"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "intro-5",
+      "section": "Introduction to Coffee",
+      "q": "Which statement is incorrect about Arabica coffee ඇරබිකා කෝපි සම්බන්දයෙන් වැරදි ප්‍රකාශය වන්නේ?",
+      "opts": [
+        "Less expensive මිළෙන් අඩුයි",
+        "They have half the amount of caffeine as Robusta රොබුස්ටා කෝපි වලට සාපේක්ෂව කැෆේන් ප්‍රමාණය 50% කි",
+        "Fruity and floral, and easy to sip on පළතුරුමය රසයන් සහ මල් සුවඳවත් වන අතර බීමට පහසුය",
+        "Higher quality beans ඉහල ප්‍රමිතියේ කෝපි වර්ගයකි"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "intro-6",
+      "section": "Introduction to Coffee",
+      "q": "Which one is not a coffee processing method ? කෝපි සැකසීමේ ක්‍රමයක් නොවන්නේ ?",
+      "opts": [
+        "Wet process වෙට් ක්‍රමය",
+        "Solvent method සොල්වන්ට් ක්‍රමය",
+        "Semi dry process සෙමි ඩ්‍රයි ක්‍රමය",
+        "Dry process ඩ්‍රයි ක්‍රමය"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "intro-7",
+      "section": "Introduction to Coffee",
+      "q": "Which Processing Method is it, where coffee cherries are laid out in the sun for four weeks after harvest? අස්වැන්න නෙලීමෙන් පසු කෝපි චෙරි සති හතරක් අව්වේ තබා සැකසීමෙ ක්‍රමය  හඳුන්වන්නේ කුමන නමකින්ද",
+      "opts": [
+        "Semi-dry processing සෙමි ඩ්‍රයි ක්‍රමය",
+        "Honey processing හනි ක්‍රමය",
+        "Wet processing වෙට් ක්‍රමය",
+        "Dry processing ඩ්‍රයි ක්‍රමය"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "intro-8",
+      "section": "Introduction to Coffee",
+      "q": "Which processing method generally possesses some of the body and natural sweetness while retaining some of the acidity of a washed coffee? සෝදාගත් කෝපි වල යම් ආම්ලිකතාවය රඳවා තබා ගන්නා අතරම ස්වභාවික පැණි රසයක් ඇත්තේ කුමන සැකසුම් ක්‍රමයටද?",
+      "opts": [
+        "Honey process හනි ක්‍රමය",
+        "Semi-dry method සෙමි ඩ්‍රයි ක්‍රමය",
+        "Wet method වෙට් ක්‍රමය",
+        "Dry method ඩ්‍රයි ක්‍රමය"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "intro-9",
+      "section": "Introduction to Coffee",
+      "q": "What is natural chemical substance which is found in coffee? කෝපි වල ඇති ස්වභාවික රසායනික සංඝටකය කුමක්ද?",
+      "opts": [
+        "Taurine ටෝරීන්",
+        "Theobromine තියෝබ්‍රොමින්",
+        "Caffeine කැෆේන්",
+        "Guarana ගුරානා"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "intro-10",
+      "section": "Introduction to Coffee",
+      "q": "What does the polishing step in coffee processing aim to remove? කෝපි සැකසීමේ ඔප දැමීමේ පියවර භාවිතයෙන් ඉවත් කරනු ලබන්නේ කුමන ස්තරයද?",
+      "opts": [
+        "Mucilage මියුසිලේජ්",
+        "Pulp පල්ප්",
+        "Parchment පාච්මන්ට්",
+        "Silver skin සිල්වර් ස්කීන්"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "intro-11",
+      "section": "Introduction to Coffee",
+      "q": "Which of the following are the two main types of coffee roasters used to achieve different roast profiles?ප්‍රධාන කෝපි රෝස්ටර් වර්ග දෙක පහත සඳහන් ඒවායින් මොනවාද?",
+      "opts": [
+        "Steam roast and flame roast / ස්ටීම් රෝස්ට් සහ ෆ්ලේම් රෝස්ට්",
+        "Deep roast and shallow roast / ගැඹුරු රෝස් සහ නොගැඹුරු රෝස්",
+        "Bean roast and ground roast / බෝංචි රෝස්ට් සහ බිම රෝස්ට්",
+        "Drum roast and hot air roast / ඩ්රම් රෝස්ට් සහ උණුසුම් වාතය රෝස්ට්"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "intro-12",
+      "section": "Introduction to Coffee",
+      "q": "Are the roasts in the picture below lined up in rows? පහත පින්තූරයේ ඇති රෝස්ට් වර්ග පිළිවලින් පෙළගස්වා ඇත්තේ?",
+      "opts": [
+        "A- American Roast, B- Full City Roast, C- New England Roas , D- Cinnamon Roastt, E- City Roast, F- French Roast, G- Vienna Roast , H- Italian Roast.",
+        "A- New England Roas, B- Full City Roast, C- American Roast, D- Cinnamon Roastt, E- City Roast, F- French Roast, G- Vienna Roast , H- Italian Roast.",
+        "A- Cinnamon Roast, B- New England Roast, C- American Roast, D- City Roast, E- Full City Roast, F- Vienna Roast, G- French Roast, H- Italian Roast.",
+        "A- Cinnamon Roast, B- Full City Roast, C- American Roast, D- New England Roast, E- City Roast, F- Vienna Roast, G- French Roast, H- Italian Roast."
+      ],
+      "correct": [
+        2
+      ],
+      "image": "intro-12.png"
+    },
+    {
+      "id": "intro-13",
+      "section": "Introduction to Coffee",
+      "q": "Which animal is known for eating coffee cherries and producing the beans used in Kopi Luwak coffee? කොපි ලුවැක් සමඟ සම්බන්ධවන සත්වයාගේ නම කුමක්ද ?",
+      "opts": [
+        "Komodo Dragon / කොමෝඩෝ මකරා",
+        "Malayan Tiger / මලයානු කොටියා",
+        "Asian Palm Civet / කල වැද්දා",
+        "Sumatran Orangutan / සුමාත්‍රා ඔරංඔටන්"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "intro-14",
+      "section": "Introduction to Coffee",
+      "q": "What are the contributions of the related animal that make Kopi Luwak special? අදාල සත්වයාගේ කිනම් කාරණා නිසා කොපි ලුවැක් විශේෂ වේද ?",
+      "opts": [
+        "Selection only තෝරාගැනීමේ හැකියාව",
+        "Digestion ජීර්ණය කිරීමේ හැකියාව පමණයි",
+        "Selection & Digestion තෝරාගැනීමේ සහ ජීර්ණය කිරීමේ හැකියාව",
+        "Immunity & Selection ප්‍රතිශක්තිකරණය සහ තෝරාගැනීමේ හැකියාව"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "intro-15",
+      "section": "Introduction to Coffee",
+      "q": "Which one is not an enemy of coffee ? කෝපි වල ගුණාත්මය පහත හෙලන අංගයක්‌ නොවන්නේ ?",
+      "opts": [
+        "Light ආලෝකය",
+        "Heat උණුසුම",
+        "Oxygen ඔක්සිජන්",
+        "Carbon dioxide කාර්බන් ඩයොක්සයිඩ්",
+        "Moisture ජලවාෂ්ප/තෙතමනය"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "intro-16",
+      "section": "Introduction to Coffee",
+      "q": "Which one is not a type of burr grinders බර් ග්‍රයින්ඩර් වර්ගයක් නොවන්නේ ?",
+      "opts": [
+        "Roller burr grinder රෝලර් බර් ග්‍රයින්ඩර්",
+        "Flat wheel burr grinders ෆ්ලැට් වීල් බර් ග්‍රයින්ඩර්",
+        "Conical burr grinders කොනිකල් බර් ග්‍රයින්ඩර්"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "intro-17",
+      "section": "Introduction to Coffee",
+      "q": "Which one is not a coffee brewing method ? කෝපි සැදීමේ ප්‍රධාන ක්‍රමයක් නොවන්නේ ?",
+      "opts": [
+        "Decoction ඩීකොක්ෂන්",
+        "Gravitational feed ග්‍රැවිටේෂනල් ෆීඩ්",
+        "Induction ඉන්ඩක්ෂන්",
+        "Infusion ඉන්ෆියුෂන්",
+        "Pressurized percolation ප්‍රෙශරයිස්ඩ් පර්කොලේෂන්"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "intro-18",
+      "section": "Introduction to Coffee",
+      "q": "What is the reason for the favourable temperature of water for brewing coffee to be 96 °C  ? කෝපි  සෑදීම සඳහා ගන්නා ජලයේ උෂ්ණත්වය 96 °C  වීම වඩාත් උචිත වන්නේ ඇයි ?",
+      "opts": [
+        "If increased more than that, It's difficult to drink due to the high heat තවත් ඉහලට රත්කළහොත් උණුසුම නිසා පානය කිරීමට අපහසුවන නිසා",
+        "Higher temperature than 96 °C turns coffee in to poison. තව ඉහලට රත්කළහොත් කෝපි විෂවන නිසා",
+        "To save electricity විදුලිය පිරිමසා ගැනීම සඳහා",
+        "Aromatic oils of coffee are released at 96 °C and bitter acids are released when the water has reached boiling point 100 °C. සෙල්සියස් අංශක 96 වන විට කෝපි වල සුවඳවත් තෙල් වර්ග පිටතට පැමිණෙන අතර ඉහලට රත් කිරීමේදී තිත්ත අම්ල වර්ග පිටතට පැමිණීම සිදුවේ"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "intro-19",
+      "section": "Introduction to Coffee",
+      "q": "Which one is not a reason for coffee blending ? කොෆී බ්ලේන්ඩින් කිරීම සඳහා හේතුවක් නොවන්නේ ?",
+      "opts": [
+        "To attain consistency from month to month and crop year to year කාලයෙන් කාලයට අස්වැන්නේ වෙනස්කම් නිසා රසය වෙනස් වීම වලක්වා ගැනීමට",
+        "To create a unique taste profile for a specific brand එක් වෙළඳ නමයකට ආවේනිකවූ රසයක් ගොඩනැගීම සඳහා",
+        "Not to be dependent on any specific origin flavor ස්වාභාවිකව ලැබෙන මූලික රසයක් මත රඳාපැවතීමට අකමැති නිසා",
+        "It's done just as it is a tradition එය සාම්ප්‍රධායක් නිසා"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "intro-20",
+      "section": "Introduction to Coffee",
+      "q": "Identify the item in the image රූපරාමුවේ ඇති උපකරණය හඳුන්වන්න",
+      "opts": [
+        "Moka pot මොකා පොට්",
+        "French press ෆ්‍රෙන්ච් ෆ්රෙස්",
+        "Cowboy coffee කව්බෝයි කෝපි",
+        "Filtered coffee ෆිල්ටර් කෝපි"
+      ],
+      "correct": [
+        0
+      ],
+      "image": "intro-20.png"
+    },
+    {
+      "id": "hot-1",
+      "section": "Hot Beverages",
+      "q": "How do you describe a cappuccino to a customer? ඔබේ පාරිභෝගිකයෙකුට කැපුචිනෝ එකක් විස්තර කරන්නේ කෙසේද?",
+      "opts": [
+        "Balance of coffee & milk සමබරවූ කෝපි සහ කිරි",
+        "Short & strong coffee කෙටි සහ ශක්තිමත් කෝපි",
+        "Frothy coffee පෙණ සහිත කෝපි",
+        "Milky coffee කිරි කෝපි"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "hot-2",
+      "section": "Hot Beverages",
+      "q": "Which milk heating technique is used to make a Cafe Latte? කැෆේ ලාතේ එකක් සෑදීමට භාවිතා කරන කිරි රත් කිරීමේ තාක්ෂණය කුමක්ද?",
+      "opts": [
+        "Texturing ටෙක්ස්චර් කිරීම",
+        "Steaming ස්ටීමින්",
+        "Balancing සමබර කිරීම",
+        "Frothing ෆ්‍රොතින්"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "hot-3",
+      "section": "Hot Beverages",
+      "q": "What is the standard temperature in heating milk? කිරි රත් කිරීමේදී සම්මත උෂ්ණත්වය කුමක්ද?",
+      "opts": [
+        "45⁰C to 50⁰C",
+        "60⁰C to 65⁰C",
+        "70⁰C to 75⁰C",
+        "65⁰C to 70⁰C"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "hot-4",
+      "section": "Hot Beverages",
+      "q": "What distinguishes a cappuccino from a latte? කැපුචිනෝව ලාතේ එකකින් වෙන්කර හඳුනාගන්නේ කෙසේද?",
+      "opts": [
+        "A cappuccino has more steamed milk than a latte කැපුචිනෝ එකක ලාතේ එකකට වඩා තැම්බූ කිරි ඇත",
+        "A cappuccino is served with chocolate syrup කැපුචිනෝ චොකලට් සිරප් සමඟ පිරිනමයි",
+        "A latte is always iced ලාතේ සෑම විටම අයිස් වේ",
+        "A latte has more steamed milk than a cappuccino කැපුචිනෝ වලට වඩා ලාතේ එකක තැම්බූ කිරි ඇත"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "hot-5",
+      "section": "Hot Beverages",
+      "q": "When texturing milk, what should you aim to achieve? කිරි පදම් කිරීමේදී, ඔබ සාක්ෂාත් කර ගැනීමට ඉලක්ක කළ යුත්තේ කුමක්ද?",
+      "opts": [
+        "No foam at all පෙන කිසිසේත් නැත",
+        "Smooth, velvety, silky micro foam with tiny air bubbles කුඩා වායු බුබුලු සහිත සිනිඳු, වෙල්වට්, සේද මයික්‍රෝ ෆෝම්",
+        "Scalded milk තැම්බූ කිරි",
+        "Thick, dense foam ඝන, ඝන පෙණ"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "hot-6",
+      "section": "Hot Beverages",
+      "q": "For proper frothing, where should the steam nozzle be placed in the milk? නිසි පෙණ දැමීම සඳහා, ස්ටීම් නොසල්  එක කිරි තුළ තැබිය යුත්තේ කොතැනින්ද?",
+      "opts": [
+        "Above the milk's surface කිරි මතුපිටට ඉහළින්",
+        "Deep at the bottom of the pitcher භාජනයේ පතුලේ ගැඹුරට",
+        "At the side of the pitcher පිච්චර් එක පැත්තේ",
+        "Just below the surface of the milk කිරි මතුපිටට යටින්"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "hot-7",
+      "section": "Hot Beverages",
+      "q": "During the texturing process, what should you listen for as a sign of correct technique? කිරි ටෙක්ෂර් කිරීමේ ක්‍රියාවලියේදී, නිවැරදි තාක්‍ෂණයේ ලකුණක් ලෙස ඔබ සවන් දිය යුත්තේ කුමක් ද?",
+      "opts": [
+        "A roaring sound ගොරවන ශබ්දයක්",
+        "A high-pitched squeal උස් හඬක්",
+        "Complete silence සම්පූර්ණ නිශ්ශබ්දතාව",
+        "A gentle hissing or \"tss-tss\" sound මෘදු \"tss-tss\" ශබ්දයක්"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "hot-8",
+      "section": "Hot Beverages",
+      "q": "What is the main difference between frothing and texturing milk? කිරි ෆ්රොතින්ග් සහ කිරි ටෙක්ෂර් කිරීම අතර ඇති ප්‍රධාන වෙනස කුමක්ද?",
+      "opts": [
+        "Frothing is used for hot beverages; texturing is used for cold beverages උණුසුම් පාන වර්ග සඳහා ෆ්රොතින්ග් පෙණ දැමීම භාවිතා වේ; කිරි ටෙක්ෂර් සිසිල් බීම සඳහා භාවිතා වේ",
+        "Frothing heats the milk; texturing cools it කිරි ෆ්රොතින්ග් කිරි රත් කරයි; කිරි ටෙක්ෂර් කිරීම එය සිසිල් කරයි",
+        "Frothing is done without a steam wand; texturing uses a steam wand ස්ටීම් වොන්ඩ් එකකින් තොරව ෆ්රොතින්ග් පෙණ දැමීම සිදු කරනු ලැබේ; කිරි ටෙක්ෂර් ස්ටීම් වොන්ඩ් එක භාවිතා කරයි",
+        "Frothing creates large bubbles; texturing creates microfoam කිරි ෆ්රොතින්ග් දැමීම විශාල බුබුලු නිර්මාණය කරයි; කිරි ටෙක්ෂර් මයික්‍රෝ ෆෝරම් නිර්මාණය කරයි"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "hot-9",
+      "section": "Hot Beverages",
+      "q": "What common mistake should be avoided when frothing milk? කිරි ෆ්රොතින්ග් පෙණ දැමීමේදී වළක්වා ගත යුතු පොදු වැරැද්ද කුමක්ද?",
+      "opts": [
+        "Creating a whirlpool effect වර්ල්පූල් ආචරණයක් නිර්මාණය කිරීම",
+        "Tilting the pitcher පිච්චර් එක ඇලවීම",
+        "Keeping the steam wand too deep in the milk ස්ටීම් වොන්ඩ් එක කිරිවල ගැඹුරට තබා ගැනීම",
+        "Using cold milk straight from the fridge ශීතකරණයේ සිට කෙලින්ම සීතල කිරි භාවිතා කිරීම"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "hot-10",
+      "section": "Hot Beverages",
+      "q": "What additional ingredient is added to a Mocha Latte compared to a regular latte? සාමාන්‍ය ලාතේ එකකට සාපේක්ෂව මොකා ලැටේ එකකට එකතු කරන අමතර අමුද්‍රව්‍ය මොනවාද?",
+      "opts": [
+        "Cinnamon කුරුඳු",
+        "Vanilla syrup වැනිලා සිරප්",
+        "Chocolate (syrup or powder) චොකලට් (සිරප් හෝ කුඩු)",
+        "Caramel sauce කැරමල් සෝස්"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "houses-1",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "Which of the following age groups consumes the most coffee in the world? ලෝකයේ වැඩිපුරම කෝපි පරිභෝජනය කරන්නේ පහත දක්වා ඇති ආයුරින් කිනම් වයස් පරතරයක මිනිසුන් කොට්ඨාසයද?",
+      "opts": [
+        "Age 10 - 20 වයස 10 - 20",
+        "Age 8- 20 වයස 8 - 20",
+        "Age 19 - 34 වයස 19 - 34",
+        "Age 30 - 40 වයස 30 - 40"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "houses-2",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "When is International Coffee Day? ජාත්‍යන්තර කෝපි දිනය යෙදී ඇත්තේ කවදාටද?",
+      "opts": [
+        "8 March මාර්තු 8",
+        "1 October ඔක්තෝබර් 1",
+        "21 January ජනවාරි 21",
+        "25 July ජුලි 25"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "houses-3",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What is the country and name associated with the world's first coffee shop? ලෝකයේ පළමු කෝපි කඩය හා සම්බන්ධ රට සහ නම කුමක්ද?",
+      "opts": [
+        "Turkey - Kiva Han තුර්කිය - කිවා හන්",
+        "England - The Turk's Head එංගලන්තය - තුර්කියේ හිස",
+        "Yemen - Al-Masjid al-Najjar යේමනය - අල්-මස්ජිඩ් අල්-නජ්ජර්",
+        "Italy - Caffe Florian ඉතාලිය - කැෆේ ෆ්ලෝරියන්"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "houses-4",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "In which country did the custom of adding milk and sugar to brewed coffee likely begin? පෙරන ලද කෝපි වලට කිරි සහ සීනි එකතු කිරීමේ සිරිත ආරම්භ වූයේ කුමන රටේද?",
+      "opts": [
+        "Turkey තුර්කිය",
+        "Austria ඔස්ට්‍රියාව",
+        "Yemen යේමනය",
+        "Ethiopia ඉතියෝපියාව"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "houses-5",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "Who is credited with inventing the piston espresso machine? පිස්ටන් එස්ප්‍රෙසෝ යන්ත්‍රය සොයාගැනීමේ ගෞරවය හිමිවන්නේ කාටද?",
+      "opts": [
+        "Desiderio Pavoni දෙසිඩේරියෝ පවෝනි",
+        "Angelo Moriondo ඇන්ජලෝ මොරියන්ඩෝ",
+        "Luigi Bezzera ලුයිගි බෙසෙරා",
+        "Achille Gaggia අචිලි ගාජියා"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "houses-6",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What's the primary distinction between a coffee shop and a coffee house when it comes to food options? ආහාර විකල්ප සම්බන්ධයෙන් කෝපි කඩයක් සහ කෝපි හවුස් එකක් අතර ඇති මූලික වෙනස කුමක්ද?",
+      "opts": [
+        "Coffee shops have fancier food presentations compared to coffee houses. කෝපි හවුස් හා සසඳන විට කෝපි කඩවල රසික ආහාර ඉදිරිපත් කිරීම් තිබේ",
+        "Coffee houses have a wider variety of pastries, whereas coffee shops have more savory options. කෝපි හවුස්වල විවිධ පේස්ට්‍රි වර්ග ඇති අතර කෝපි කඩවල වඩාත් රසවත් විකල්ප තිබේ.",
+        "Coffee shops offer a broader selection of food items, similar to a restaurant, while coffee houses focus primarily on coffee and limited snacks. කෝපි කඩ අවන්හලකට සමාන ආහාර ද්‍රව්‍ය පුළුල් තේරීමක් ලබා දෙන අතර කෝපි හවුස් මූලික වශයෙන් කෝපි සහ සීමිත කෙටි ආහාර කෙරෙහි අවධානය යොමු කරයි.",
+        "Coffee shops offer organic ingredients, while coffee houses do not. කෝපි කඩවල කාබනික අමුද්‍රව්‍ය ලබා දෙන අතර කෝපි හවුස් එසේ නොවේ."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "houses-7",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What is the meaning of cafe bakery? කැෆේ බේකරි යන්නෙහි තේරුම කුමක්ද?",
+      "opts": [
+        "A specific type of coffee bean grown in a particular region. යම් කලාපයක වගා කරන විශේෂිත කෝපි බෝංචි වර්ගයකි.",
+        "A subscription service for receiving fresh coffee beans by mail. තැපෑලෙන් නැවුම් කෝපි බෝංචි ලබා ගැනීම සඳහා දායකත්ව සේවාවක්.",
+        "A traditional brewing method for coffee that involves hot sand. උණුසුම් වැලි ඇතුළත් කෝපි සඳහා සාම්ප්රදායික පෙරන ක්රමයකි.",
+        "A combined business that sells coffee, tea, and other beverages alongside baked goods like bread, pastries, cookies, Pizza, and cakes. පාන්, පේස්ට්‍රි, කුකීස්, පීසා සහ කේක් වැනි බේක් කළ භාණ්ඩ සමඟ කෝපි, තේ සහ වෙනත් බීම අලෙවි කරන ඒකාබද්ධ ව්‍යාපාරයක්."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "houses-8",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What is the most likely meaning of \"student cafe\"? \"ශිෂ්‍ය කැෆේ\" යන්නෙහි බොහෝ දුරට ඉඩ ඇති අර්ථය කුමක්ද",
+      "opts": [
+        "A cafe run by students themselves. සිසුන් විසින්ම පවත්වාගෙන යන ආපන ශාලාවක්.",
+        "A cafe located on or near a school campus. පාසල් කැම්පස් එකක හෝ ඒ ආසන්නයේ පිහිටි ආපන ශාලාවක්.",
+        "A special type of coffee drink popular among students. සිසුන් අතර ජනප්‍රිය විශේෂ කෝපි බීම වර්ගයකි.",
+        "A cafe that offers discounts specifically for students. සිසුන් සඳහා විශේෂයෙන් වට්ටම් ලබා දෙන කැෆේ එකක්."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "houses-9",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What is the defining characteristic of a co-working cafe? සම-වැඩ කරන ආපන ශාලාවක නිර්වචන ලක්ෂණය කුමක්ද?",
+      "opts": [
+        "It offers only organic food and beverages. එය ලබා දෙන්නේ කාබනික ආහාර සහ පාන වර්ග පමණි.",
+        "It caters specifically to freelance writers and artists. එය විශේෂයෙන් නිදහස් ලේඛකයින් සහ කලාකරුවන් සඳහා සපයයි.",
+        "It prioritizes a quiet atmosphere for relaxation. එය විවේකය සඳහා නිහඬ වාතාවරණයකට ප්‍රමුඛත්වය දෙයි.",
+        "It provides a workspace environment with amenities like Wi-Fi and desks, alongside cafe service. එය කැෆේ සේවාව සමඟ Wi-Fi සහ ඩෙස්ක් වැනි පහසුකම් සහිත වැඩබිම් පරිසරයක් සපයයි."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "houses-10",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What best describes a Parisian cafe? පැරිසියානු ආපන ශාලාවක් විස්තර කරන්නේ කුමක්ද?",
+      "opts": [
+        "A cafe known for offering strong espresso drinks. ශක්තිමත් එස්ප්‍රෙසෝ බීම පිරිනැමීම සඳහා ප්‍රසිද්ධ ආපන ශාලාවක්.",
+        "A cafe known for its atmosphere, serving as a social hub, meeting place, and place to relax, often with a menu including coffee, drinks, and potentially light meals. එහි වායුගෝලය සඳහා ප්‍රසිද්ධ ආපන ශාලාවක්, සමාජ මධ්‍යස්ථානයක්, රැස්වීම් ස්ථානයක් සහ විවේක ගැනීමට ස්ථානයක් ලෙස සේවය කරයි, බොහෝ විට කෝපි, බීම සහ සැහැල්ලු ආහාර ඇතුළු මෙනුවක් ඇත.",
+        "A cafe chain specializing in French pastries. ප්‍රංශ පේස්ට්‍රි සඳහා විශේෂිත වූ කැෆේ දාමයක්.",
+        "A cafe that serves a wide variety of fast food options. විවිධාකාර ක්ෂණික ආහාර විකල්පයන් සපයන කැෆේ එකක්."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "houses-11",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What does \"sidewalk cafe\" describe? \"පදික වේදිකාවේ කැෆේ\" විස්තර කරන්නේ කුමක්ද?",
+      "opts": [
+        "A specific type of coffee drink served outdoors. එළිමහනේ පිරිනමන විශේෂිත කෝපි බීම වර්ගයකි.",
+        "An outdoor seating area of a cafe or restaurant located on the sidewalk. පදික වේදිකාවේ පිහිටා ඇති කැෆේ හෝ අවන්හලක එළිමහන් ආසන ප්‍රදේශයක්.",
+        "A cafe that prioritizes takeout coffee orders. කෝපි ඇණවුම් සඳහා ප්‍රමුඛත්වය දෙන කැෆේ එකක්.",
+        "A cafe that only offers cold beverages. සිසිල් බීම පමණක් පිරිනමන කැෆේ එකක්."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "houses-12",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What is the main focus of a grab-and-go cafe?  ග්‍රැබ් ඇන්ඩ් ගෝ ආපන ශාලාවක ප්‍රධාන අවධානය කුමක්ද?",
+      "opts": [
+        "Specializing in pre-made food and beverages for quick takeout. ඉක්මනින් පිටතට ගැනීම සඳහා පෙර සාදන ලද ආහාර සහ පාන වර්ග විශේෂීකරණය කිරීම.",
+        "Offering a luxurious and relaxing atmosphere. සුඛෝපභෝගී සහ විවේකී වාතාවරණයක් ලබා දීම.",
+        "Providing a wide variety of brewed coffee options. පෙරන ලද කෝපි විකල්ප රාශියක් සැපයීම.",
+        "Catering to customers who want to enjoy a leisurely sit-down meal. විවේකීව වාඩි වී සිටින ආහාර වේලක් භුක්ති විඳීමට කැමති පාරිභෝගිකයින්ට ආහාර සැපයීම."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "houses-13",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What best describes a \"corporate cafe\" concept that goes beyond a standard cafe? සම්මත ආපන ශාලාවකින් ඔබ්බට යන \"කෝපොරේට් කැෆේ\" සංකල්පය වඩාත් හොඳින් විස්තර කරන්නේ කුමක්ද?",
+      "opts": [
+        "A cafe chain specializing in efficiency and speed, catering to busy professionals. කාර්යබහුල වෘත්තිකයන්ට ආහාර සැපයීමේ කාර්යක්ෂමතාව සහ වේගය පිළිබඳ විශේෂිත වූ කැෆේ දාමයක්.",
+        "A cafe known for its focus on locally sourced ingredients and artisanal coffee brewing methods. දේශීයව ලබා ගන්නා අමුද්‍රව්‍ය සහ ශිල්පීය කෝපි පෙරීමේ ක්‍රම කෙරෙහි අවධානය යොමු කිරීම සඳහා ප්‍රසිද්ධ ආපන ශාලාවක්.",
+        "A cozy cafe offering a relaxed atmosphere and comfortable seating. සැහැල්ලු වාතාවරණයක් සහ සුවපහසු ආසනයක් ලබා දෙන සුවපහසු ආපන ශාලාවක්.",
+        "A cafe that builds on a company's brand identity through its design, menu, and overall experience. එහි සැලසුම, මෙනුව සහ සමස්ත අත්දැකීම තුළින් සමාගමක සන්නාම අනන්‍යතාවය මත ගොඩනැගෙන ආපන ශාලාවක්."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "houses-14",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What best describes a specialty coffee outlet? විශේෂිත කෝපි අලෙවිසැලක් විස්තර කරන්නේ කුමක්ද?",
+      "opts": [
+        "A cafe primarily focused on offering a full menu of breakfast and lunch options, with coffee as an afterthought. ආපන ශාලාවක් මූලික වශයෙන් අවධානය යොමු කළේ කෝපි සමඟ උදෑසන ආහාරය සහ දිවා ආහාර විකල්ප පිළිබඳ සම්පූර්ණ මෙනුවක් පිරිනැමීම කෙරෙහි ය.",
+        "A cafe specializing in high-quality, single-origin beans, featuring a range of specialty coffee drinks and potentially a curated food menu to complement the coffee. උසස් තත්ත්වයේ, තනි සම්භවයක් ඇති කොපි ඇට සඳහා විශේෂිත වූ ආපන ශාලාවක්, විශේෂිත කෝපි පාන වර්ග රාශියක් සහ කෝපිවලට අනුපූරක වීමට හැකි ආහාර මෙනුවක් ඇතුළත් වේ.",
+        "A large chain cafe known for offering discounted coffee blends. වට්ටම් සහිත කෝපි මිශ්‍රණ පිරිනැමීම සඳහා ප්‍රසිද්ධ විශාල දාම කැෆේ එකක්.",
+        "A vending machine offering various instant coffee options. විවිධ ක්ෂණික කෝපි විකල්ප ඉදිරිපත් කරන විකුණුම් යන්ත්‍රයක්."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "houses-15",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What best describes coffee carts and trucks? කෝපි කරත්ත සහ ට්‍රක් රථ වඩාත් හොඳින් විස්තර කරන්නේ කුමක්ද?",
+      "opts": [
+        "Vending machines offering a variety of hot and cold beverages. විවිධ උණුසුම් සහ සිසිල් බීම වර්ග පිරිනමන විකුණුම් යන්ත්‍ර.",
+        "Large chain coffee shops with a drive-thru option. ඩ්‍රයිව් තෘ විකල්පයක් සහිත විශාල දාම කෝපිහල්.",
+        "Mobile vendors that sell coffee and other beverages, often in public spaces. බොහෝ විට පොදු ස්ථානවල කෝපි සහ අනෙකුත් බීම වර්ග අලෙවි කරන ජංගම වෙළෙන්දන්.",
+        "Permanent cafes located in shopping malls. සාප්පු සංකීර්ණවල පිහිටි ස්ථිර කැෆේ."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "houses-16",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "Which of the following is NOT typically included in a coffee shop's marketing materials? කෝපි කඩයක අලෙවිකරණ ද්‍රව්‍යවල සාමාන්‍යයෙන් ඇතුළත් නොවන්නේ පහත ඒවායින් මොනවාද?",
+      "opts": [
+        "A website showcasing your coffee shop and menu ඔබේ කෝපි හල සහ මෙනුව ප්‍රදර්ශනය කරන වෙබ් අඩවියක්",
+        "Menus clearly displaying coffee drinks and prices කෝපි බීම සහ මිල ගණන් පැහැදිලිව පෙන්වන මෙනු",
+        "Eye-catching signage outside the shop සාප්පුවෙන් පිටත ඇසට හසුවන සංඥා පුවරු",
+        "A loyalty program to reward returning customers ආපසු පැමිණෙන ගනුදෙනුකරුවන්ට ත්‍යාග පිරිනැමීමට පක්ෂපාතී වැඩසටහනක්"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "houses-17",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What are the two CRITICAL aspects to consider when designing a cafe to optimize both functionality and customer experience? ක්‍රියාකාරීත්වය සහ පාරිභෝගික අත්දැකීම් යන දෙකම ප්‍රශස්ත කිරීම සඳහා කැෆේ එකක් සැලසුම් කිරීමේදී සලකා බැලිය යුතු තීරණාත්මක අංශ දෙක කුමක්ද?",
+      "opts": [
+        "Brand recognition and menu pricing strategy වෙළඳ නාම හඳුනාගැනීම සහ මෙනු මිලකරණ උපාය මාර්ගය",
+        "Selection of furniture and color palette ගෘහ භාණ්ඩ සහ වර්ණ පුවරුව තෝරා ගැනීම",
+        "Target market demographics and barista training programsption ඉලක්ක වෙළඳපල ජනවිකාස සහ බැරිස්ටා පුහුණු වැඩසටහන්",
+        "Element of function (efficient workflow) and element of layout (practical space arrangement). කාර්යයේ මූලද්රව්යය (කාර්යක්ෂම වැඩ ප්රවාහය) සහ පිරිසැලසුමේ මූලද්රව්යය (ප්රායෝගික අවකාශය සැකසීම)."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "houses-18",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "When considering the element of layout & decor in cafe design, what factors encompass this concept?කැෆේ නිර්මාණයේ පිරිසැලසුම සහ අලංකරණ අංගය සලකා බැලීමේදී, මෙම සංකල්පය ඇතුළත් වන සාධක මොනවාද?",
+      "opts": [
+        "Size, shape, and overall appearance of the cafe space, along with the positioning of furniture and design elements. ගෘහ භාණ්ඩ ස්ථානගත කිරීම සහ සැලසුම් අංගයන් සමඟ කැෆේ අවකාශයේ ප්‍රමාණය, හැඩය සහ සමස්ත පෙනුම.",
+        "Target customer demographics and marketing materials ඉලක්කගත පාරිභෝගික ජනවිකාස සහ අලෙවිකරණ ද්‍රව්‍ය",
+        "Functionality of equipment and menu pricing strategy උපකරණවල ක්‍රියාකාරීත්වය සහ මෙනු මිලකරණ උපාය මාර්ගය",
+        "Coffee bean selection and brewing methods offered කෝපි බෝංචි තෝරා ගැනීම සහ පෙරන ක්‍රම ඉදිරිපත් කෙරේ"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "houses-19",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "What primary considerations define the element of function in cafe design? කැෆේ නිර්මාණයේ කාර්යයේ මූලද්‍රව්‍යය නිර්වචනය කරන මූලික කරුණු මොනවාද?",
+      "opts": [
+        "Color palette and furniture styles chosen for the cafe's decor. කැෆේ අලංකරණය සඳහා තෝරා ගන්නා ලද වර්ණාලේප සහ ගෘහ භාණ්ඩ මෝස්තර.",
+        "Number of drinks to be served, projected customer volume, and space/equipment needed to meet that demand. පිරිනැමිය යුතු බීම සංඛ්‍යාව, ප්‍රක්ෂේපිත පාරිභෝගික පරිමාව සහ එම ඉල්ලුම සපුරාලීමට අවශ්‍ය ඉඩකඩ/උපකරණ.",
+        "Selection of music and background noise level for the cafe's ambiance. කැෆේ පරිසරය සඳහා සංගීතය සහ පසුබිම් ශබ්ද මට්ටම තෝරාගැනීම.",
+        "Brand logo design and marketing materials used to promote the cafe. ආපනශාලාව ප්‍රවර්ධනය කිරීම සඳහා භාවිතා කරන සන්නාම ලාංඡන නිර්මාණය සහ අලෙවිකරණ ද්‍රව්‍ය."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "houses-20",
+      "section": "Coffee Houses & Cafe Concepts",
+      "q": "Which of the following best represents a typical cafe's organizational structure, starting from the highest level of authority? ඉහළම අධිකාරියේ සිට ආරම්භ වන සාමාන්‍ය ආපන ශාලාවක ආයතනික ව්‍යුහය වඩාත් හොඳින් නියෝජනය කරන්නේ පහත සඳහන් කවරක් ද?",
+      "opts": [
+        "Lead Barista (Supervisor), Barista, Assistant Outlet/Store Manager, Outlet/Store Manager ලීඩ් බැරිස්ටා (අධීක්ෂක), බැරිස්ටා, සහකාර අලෙවිසැල/වෙළඳසැල් කළමනාකරු, අලෙවිසැල/වෙළඳසැල් කළමනාකරු",
+        "Barista, Lead Barista (Supervisor), Assistant Outlet/Store Manager, Outlet/Store Manager බැරිස්ටා, ලීඩ් බැරිස්ටා (අධීක්ෂක), සහකාර අලෙවිසැල/වෙළඳසැල් කළමනාකරු, අලෙවිසැල/වෙළඳසැල් කළමනාකරු",
+        "Trainee, Barista, Lead Barista (Supervisor), Assistant Outlet/Store Manager, Outlet/Store Manager පුහුණුකරු, බැරිස්ටා, ලීඩ් බැරිස්ටා (අධීක්ෂක), සහකාර අලෙවිසැල/වෙළඳසැල් කළමනාකරු, අලෙවිසැල/වෙළඳසැල් කළමනාකරු",
+        "Outlet/Store Manager, Assistant Outlet/Store Manager, Lead Barista (Supervisor), Barista, Trainee අලෙවිසැල/වෙළඳසැල් කළමනාකරු, සහකාර අලෙවිසැල/වෙළඳසැල් කළමනාකරු, ප්‍රධාන බැරිස්ටා (අධීක්ෂක), බැරිස්ටා, පුහුණුකරු"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "manual-1",
+      "section": "Manual Brewing & Alcoholic Coffee",
+      "q": "How many milliliters of liquor will be used for alcoholic coffee? මද්‍යසාර කෝපි සඳහා මත්පැන් මිලි ලීටර් කීයක් භාවිතා කරන්නේද?",
+      "opts": [
+        "30ml මිලි ලීටර් 30",
+        "50ml මිලි ලීටර් 50",
+        "75ml මිලි ලීටර් 75",
+        "90ml මිලි ලීටර් 90"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "manual-2",
+      "section": "Manual Brewing & Alcoholic Coffee",
+      "q": "Which of the below coffee drink is not an alcoholic one? පහත සඳහන් බීමවලින් මධ්‍යසාර නොවන  කෝපි පානය කුමක්ද?",
+      "opts": [
+        "Caribbean Coffee කැරබියන් කොෆි",
+        "Cafe Royal කැෆේ රෝයල්",
+        "Irish Coffee අයිරිෂ් කොෆි",
+        "Long Black ලෝං බ්ලැක්"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "manual-3",
+      "section": "Manual Brewing & Alcoholic Coffee",
+      "q": "How many scoops of tea powder will be used to make a pot of tea for three persons? තුන් දෙනෙකුට තේ පොට් එකක් සෑදීමට තේ කුඩු හැඳි කීයක් යොදනවාද?",
+      "opts": [
+        "Three තුනක්",
+        "Two දෙකක්",
+        "Four හතරක්",
+        "One එකක්"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "manual-4",
+      "section": "Manual Brewing & Alcoholic Coffee",
+      "q": "What is the name of below manual brewing coffee machine? පහත පෙන්වා ඇති  කෝපි යන්ත්‍රයේ නම කුමක්ද?",
+      "opts": [
+        "Mocha Pot මෝකා පොට්",
+        "Vacuum Pot වැකුම් පොට්",
+        "French Press ෆ්‍රෙන්ච් ප්‍රෙස්",
+        "V60 වී 60"
+      ],
+      "correct": [
+        2
+      ],
+      "image": "manual-4.png"
+    },
+    {
+      "id": "manual-5",
+      "section": "Manual Brewing & Alcoholic Coffee",
+      "q": "How many millimeters of hot water & grams of coffee grounds needed to make a V60 (for one cup)? V60 එකක් සෑදීමට උණු වතුර මිලිලීටර් කීයක් සහ කෝපි කුඩු ග්‍රෑම් කීයක් අවශ්‍යද (එක් කෝප්පයකට)?",
+      "opts": [
+        "100ml & 10g මිලි ලීටර් 100 සහ 10 ග්රෑම්",
+        "200ml & 12g මිලි ලීටර් 200 සහ 12 ග්රෑම්",
+        "600ml & 40g මිලි ලීටර් 600 සහ 40 ග්රෑම්",
+        "250ml & 16g මිලි ලීටර් 250 සහ 16 ග්රෑම්"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "manual-6",
+      "section": "Manual Brewing & Alcoholic Coffee",
+      "q": "What is the right temperature of hot water for a coffee or tea? තේ, කෝපි සඳහා උණු වතුරේ නියම උෂ්ණත්වය කුමක්ද?",
+      "opts": [
+        "91⁰C",
+        "96⁰C",
+        "101⁰C",
+        "100⁰C"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "manual-7",
+      "section": "Manual Brewing & Alcoholic Coffee",
+      "q": "What is this equipment called? මෙම උපකරණය හඳුන්වන නම කුමක්ද?",
+      "opts": [
+        "Goose Neck Kettle ගූස් නෙක් කෙට්ල්",
+        "Electric Percolator ඉලෙක්ට්‍රික් ප(ර්)කොලේට(ර්)",
+        "French Press ෆ්‍රෙන්ච් ප්‍රෙස්",
+        "Flip Coffee Pot ෆ්ලිප් කොෆි පොට්"
+      ],
+      "correct": [
+        0
+      ],
+      "image": "manual-7.png"
+    },
+    {
+      "id": "manual-8",
+      "section": "Manual Brewing & Alcoholic Coffee",
+      "q": "What is the brewing time for making a coffee in French Press? ෆ්‍රෙන්ච් ප්‍රෙස් එකක් භාවිතයෙන් කෝපි සෑදීමේ කාලය කුමක්ද?",
+      "opts": [
+        "9minutes විනාඩි 9 යි",
+        "4-7minutes විනාඩි 4-7",
+        "15minutes විනාඩි 15 යි",
+        "10minutes විනාඩි 10 යි"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "manual-9",
+      "section": "Manual Brewing & Alcoholic Coffee",
+      "q": "Identify the item in the image රූපරාමුවේ ඇති උපකරණය හඳුන්වන්න",
+      "opts": [
+        "French press ෆ්‍රෙන්ච් ෆ්රෙස්",
+        "Filtered coffee ෆිල්ටර් කෝපි",
+        "Moka pot මොකා පොට්",
+        "Cowboy coffee කව්බෝයි කෝපි"
+      ],
+      "correct": [
+        2
+      ],
+      "image": "manual-9.png"
+    },
+    {
+      "id": "manual-10",
+      "section": "Manual Brewing & Alcoholic Coffee",
+      "q": "What is back flushing in cleaning the espresso machine? එස්ප්‍රෙසෝ යන්ත්‍රය පිරිසිදු කිරීමේදී බැක් ෆ්ලෂින් යනු කුමක්ද?",
+      "opts": [
+        "Soaking the portafilters in chemical. පෝටෆිල්ටර් රසායනික ද්‍රව්‍යවල පොඟවා ගැනීම.",
+        "Using a damp cloth for cleaning. පිරිසිදු කිරීම සඳහා තෙත් රෙදි භාවිතා කිරීම.",
+        "Pressing manual button 03 times 10 secs each using a chemical. රසායනික ද්‍රව්‍යයක් භාවිතා කරමින් මැනුවල් බොත්තම තත්පර 10 බැගින් 03 වතාවක් එබීම",
+        "Cleaning the drip tray. ඩ්‍රිප් ට්‍රේ පිරිසිදු කිරීම."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "ops-1",
+      "section": "Cafe Operational Standards",
+      "q": "What is the primary purpose of having operational standards in a cafe? කැෆේ එකක මෙහෙයුම් ප්‍රමිතීන් තිබීමේ මූලික අරමුණ කුමක්ද?",
+      "opts": [
+        "To showcase the cafe's unique offerings and differentiate itself from competitors. කැෆේහි අද්විතීය දීමනා ප්‍රදර්ශනය කිරීමට සහ තරඟකරුවන්ගෙන් වෙනස් වීමට.",
+        "To ensure consistency in quality, service, and procedures for a smooth-running cafe. සුමටව ක්‍රියාත්මක වන ආපන ශාලාවක් සඳහා ගුණාත්මකභාවය, සේවාව සහ ක්‍රියා පටිපාටිවල අනුකූලතාව සහතික කිරීම.",
+        "To provide creative freedom and flexibility for baristas in expressing their personalities. බැරිස්ටාවරුන්ට ඔවුන්ගේ පෞරුෂය ප්‍රකාශ කිරීමේදී නිර්මාණාත්මක නිදහස සහ නම්‍යශීලීභාවය ලබා දීම.",
+        "To minimize the need for staff training and supervision. කාර්ය මණ්ඩල පුහුණුව සහ අධීක්ෂණය සඳහා අවශ්යතාවය අවම කිරීම."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "ops-2",
+      "section": "Cafe Operational Standards",
+      "q": "What are some of the key benefits of having operational standards in a cafe? කැෆේ එකක මෙහෙයුම් ප්‍රමිතීන් තිබීමේ ප්‍රධාන ප්‍රතිලාභ මොනවාද?",
+      "opts": [
+        "Allowing baristas complete creative freedom in drink preparation. බීම සැකසීමේදී බැරිස්ටාවරුන්ට සම්පූර්ණ නිර්මාණාත්මක නිදහස ලබා දීම.",
+        "Ensuring brand recognition through consistent service and product quality. ස්ථාවර සේවාවක් සහ නිෂ්පාදනවල ගුණාත්මක භාවය තුළින් සන්නාම පිළිගැනීම සහතික කිරීම.",
+        "Minimizing the need for staff training and development programs. කාර්ය මණ්ඩල පුහුණු හා සංවර්ධන වැඩසටහන් සඳහා අවශ්‍යතාවය අවම කිරීම.",
+        "Catering to every customer's individual preferences, even if they deviate from the menu. මෙනුවෙන් බැහැර වුවද, සෑම පාරිභෝගිකයෙකුගේම පුද්ගලික මනාපයන් සඳහා ආහාර සැපයීම"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "ops-3",
+      "section": "Cafe Operational Standards",
+      "q": "Which of the following best represent the two foundational elements that guide consistent operations in a cafe? කැෆේ එකක ස්ථීර මෙහෙයුම් සඳහා මඟ පෙන්වන මූලික මූලද්‍රව්‍ය දෙකෙන් හොඳම නියෝජනය කරන්නේ කුමන ඒවාද?",
+      "opts": [
+        "Menu pricing strategies and marketing campaign plans මෙනු මිලකරණ උපාය මාර්ග සහ අලෙවිකරණ ප්‍රචාරක සැලසුම්",
+        "Daily staff schedules and barista performance reviews දෛනික කාර්ය මණ්ඩල කාලසටහන් සහ බැරිස්ටා කාර්ය සාධන සමාලෝචන",
+        "Cleaning checklists and equipment maintenance logs පිරික්සුම් ලැයිස්තු සහ උපකරණ නඩත්තු ලොග පිරිසිදු කිරීම",
+        "SOPs outlining tasks and policies for overall operations. එස් ඕ පී සමස්ත මෙහෙයුම් සඳහා කාර්යයන් සහ ප්‍රතිපත්ති ගෙනහැර දක්වයි."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "ops-4",
+      "section": "Cafe Operational Standards",
+      "q": "What does SOP typically stand for in the context of a business? ව්‍යාපාරයක සන්දර්භය තුළ SOP සාමාන්‍යයෙන් අදහස් කරන්නේ කුමක්ද?",
+      "opts": [
+        "Successful Outlet Performance සක්සස්ෆුල් අවුට්ලේට් ප්‍රරෆොර්මන්ස්",
+        "Standard Operating Procedure ස්ටෑන්ඩර්ඩ් ඔපෙරේටින් ප්‍රරෆොර්මන්ස්",
+        "Social Outreach Program සෝෂල් අවුට්රේච් ප්‍රෝග්‍රෑම්",
+        "Special Order Process ස්පෙෂල් ඔර්ඩර් ප්‍රොසෙස්"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "ops-5",
+      "section": "Cafe Operational Standards",
+      "q": "What is the primary purpose of a job description, typically provided by the HR department during the hiring process? බඳවා ගැනීමේ ක්‍රියාවලියේදී සාමාන්‍යයෙන් මානව සම්පත් දෙපාර්තමේන්තුව විසින් සපයනු ලබන රැකියා විස්තරයක මූලික අරමුණ කුමක්ද?",
+      "opts": [
+        "To inform potential candidates about the company's history and mission statement. සමාගමේ ඉතිහාසය සහ මෙහෙවර ප්‍රකාශය පිළිබඳව අනාගත අපේක්ෂකයින් දැනුවත් කිරීම.",
+        "To clearly outline the main duties, responsibilities, and qualifications required for a specific role. නිශ්චිත කාර්යභාරයක් සඳහා අවශ්‍ය ප්‍රධාන රාජකාරි, වගකීම් සහ සුදුසුකම් පැහැදිලිව දැක්වීම.",
+        "To showcase the company culture and employee benefits offered. සමාගම් සංස්කෘතිය සහ පිරිනමන සේවක ප්‍රතිලාභ ප්‍රදර්ශනය කිරීම.",
+        "To serve as a performance evaluation tool for existing employees. දැනට සිටින සේවකයින් සඳහා කාර්ය සාධන ඇගයීමේ මෙවලමක් ලෙස සේවය කිරීම."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "ops-6",
+      "section": "Cafe Operational Standards",
+      "q": "Which of the following best represent the core duties and responsibilities of a barista? බැරිස්ටා කෙනෙකුගේ මූලික යුතුකම් සහ වගකීම් වඩාත් හොඳින් නියෝජනය කරන්නේ පහත ඒවායින් කුමක්ද?",
+      "opts": [
+        "Developing new coffee recipes and managing inventory levels. නව කෝපි වට්ටෝරු සංවර්ධනය කිරීම සහ ඉන්වෙන්ටරි මට්ටම් කළමනාකරණය කිරීම.",
+        "Roasting coffee beans and conducting barista competitions. කෝපි ඇට බැදීම සහ බැරිස්ටා තරඟ පැවැත්වීම.",
+        "Following SOPs to welcome customers, take orders, prepare drinks, operate equipment, and settle bills. ගනුදෙනුකරුවන් පිළිගැනීමට, ඇණවුම් ලබා ගැනීමට, බීම පිළියෙළ කිරීමට, උපකරණ ක්‍රියාත්මක කිරීමට සහ බිල්පත් පියවීමට SOPs අනුගමනය කරන්න.",
+        "Setting cafe hours and managing social media presence. කැෆේ වේලාවන් සැකසීම සහ සමාජ මාධ්‍ය පැමිණීම කළමනාකරණය කිරීම."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "ops-7",
+      "section": "Cafe Operational Standards",
+      "q": "Which of the following best describes the acceptable level of facial hair for male baristas? පිරිමි බැරිස්ටා සඳහා පිළිගත හැකි මුහුණේ රෝම මට්ටම වඩාත් හොඳින් විස්තර කරන්නේ පහත සඳහන් මොනවාද?",
+      "opts": [
+        "A neatly trimmed beard is acceptable. මනාව කැපූ රැවුලක් පිළිගත හැකිය.",
+        "Goatees and trimmed sideburns are allowed. ගොටිස් සහ කැපූ පැති අවසර ඇත.",
+        "Clean-shaven is preferred, but a mustache is okay. රැවුල කපා පිරිසිදු කිරීම වඩාත් සුදුසුය, නමුත් උඩු රැවුල කමක් නැත.",
+        "Facial hair of any kind is not permitted. ඕනෑම ආකාරයක මුහුණේ රෝම සඳහා අවසර නැත."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "ops-8",
+      "section": "Cafe Operational Standards",
+      "q": "When it comes to hairstyles for female staff, what is MOST important? කාන්තා කාර්ය මණ්ඩලය සඳහා කොණ්ඩා මෝස්තර සම්බන්ධයෙන්, වඩාත්ම වැදගත් වන්නේ කුමක්ද?",
+      "opts": [
+        "Hair color must be natural. හිසකෙස් වර්ණය ස්වභාවික විය යුතුය.",
+        "Hair length must be above the shoulders. හිසකෙස් දිග උරහිස් වලට ඉහළින් තිබිය යුතුය.",
+        "Hair accessories should be brightly colored and eye-catching. හිසකෙස් උපාංග දීප්තිමත් වර්ණ සහ නෙත් සිත් ඇදගන්නාසුළු විය යුතුය.",
+        "Hair must be clean, neat, and secured if long to prevent falling over the face. හිසකෙස් මුහුණ මත වැටීම වැළැක්වීම සඳහා දිගු නම් පිරිසිදු, පිළිවෙලට සහ ආරක්ෂිත විය යුතුය."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "ops-9",
+      "section": "Cafe Operational Standards",
+      "q": "Regarding jewelry and accessories for cafe staff, which is generally NOT allowed? සාමාන්‍යයෙන් අවසර නොලබන කැෆේ කාර්ය මණ්ඩලය සඳහා ස්වර්ණාභරණ සහ උපාංග සම්බන්ධයෙන්ද?",
+      "opts": [
+        "A simple wedding band. සරල මංගල මුද්දක්",
+        "Large, dangling earrings or facial piercings. විශාල, එල්ලෙන කරාබු හෝ මුහුණේ සිදුරු.",
+        "A single pair of small stud earrings. කුඩා ස්ටුඩ් කරාබු තනි යුගලයක්.",
+        "A religious pendant worn discreetly under clothing. ඇඳුම් යට සගවා පැළඳ සිටින ආගමික පෙන්ඩන්ට් එකක්."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "ops-10",
+      "section": "Cafe Operational Standards",
+      "q": "How should staff ensure they maintain a pleasant and professional appearance? කාර්ය මණ්ඩලය ප්‍රසන්න සහ වෘත්තීය පෙනුමක් පවත්වා ගැනීමට සහතික විය යුත්තේ කෙසේද?",
+      "opts": [
+        "Personalize the uniform with patches or accessories. පැච් හෝ උපාංග සමඟ නිල ඇඳුම පුද්ගලීකරණය කරන්න.",
+        "It's okay to have pockets bulging with personal items. පුද්ගලික දේවල් එක්ක සාක්කු පුම්බා ගත්තට කමක් නෑ.",
+        "Report to work with a clean, ironed uniform, and ensure it's properly fastened. පිරිසිදු, අයන් කරන ලද නිල ඇඳුමක් සමඟ වැඩ කිරීමට වාර්තා කරන්න, සහ එය නිවැරදිව සවි කර ඇති බවට සහතික වන්න.",
+        "Wear comfortable clothing, even if it's not part of the uniform. නිල ඇඳුමේ කොටසක් නොවුණත් සුව පහසු ඇඳුම් අඳින්න."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "ops-11",
+      "section": "Cafe Operational Standards",
+      "q": "What's the primary reason for food and beverage staff to avoid wearing strong perfumes or aftershaves? දැඩි තද ප්‍රබල සුවඳ විලවුන් හෝ ආෆ්ට ෂේව් භාවිතයෙන් වැළකී සිටීමට ආහාර පාන කාර්ය මණ්ඩලයට මූලික හේතුව කුමක්ද?",
+      "opts": [
+        "Some customers might have allergies or sensitivities to perfumes. සමහර පාරිභෝගිකයින්ට සුවඳ විලවුන් සඳහා අසාත්මිකතා හෝ සංවේදීතාවයක් තිබිය හැක.",
+        "Perfumes can stain cafe uniforms. සුවඳ විලවුන් කැෆේ නිල ඇඳුම් පැල්ලම් ඇති කළ හැක.",
+        "Using strong scents is unprofessional in a food service setting. ආහාර සේවා පසුබිමක ශක්තිමත් සුවඳ භාවිතා කිරීම වෘත්තීයමය නොවේ.",
+        "Strong scents can clash with the cafe's background music. ප්‍රබල සුවඳ කැෆේ පසුබිම් සංගීතය සමඟ ගැටිය හැක."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "ops-12",
+      "section": "Cafe Operational Standards",
+      "q": "Regarding hand and nail hygiene for cafe staff, what's the MOST important practice? කැෆේ කාර්ය මණ්ඩලය සඳහා අත් සහ නිය සනීපාරක්ෂාව සම්බන්ධයෙන්, වඩාත්ම වැදගත් භාවිතය කුමක්ද?",
+      "opts": [
+        "Long, fake nails are allowed as long as they are clean. දිගු, ව්යාජ නියපොතු පිරිසිදු වන තාක් කල් අවසර දෙනු ලැබේ.",
+        "Staff should keep their hands clean and nails trimmed. කාර්ය මණ්ඩලය තම දෑත් පිරිසිදුව තබාගෙන නියපොතු කපා ගත යුතුය.",
+        "Using hand sanitizer occasionally throughout the shift is sufficient. වැඩ මුරය පුරාම ඉඳහිට අත් සනීපාරක්ෂක භාවිතා කිරීම ප්‍රමාණවත් වේ.",
+        "Wearing brightly colored nail polish is acceptable."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "ops-13",
+      "section": "Cafe Operational Standards",
+      "q": "What's the PRIMARY goal of maintaining a clean and appealing cafe environment? පිරිසිදු හා ආකර්ෂණීය කැෆේ පරිසරයක් පවත්වාගෙන යාමේ මූලික අරමුණ කුමක්ද?",
+      "opts": [
+        "To impress customers with expensive decor. මිල අධික අලංකරණයෙන් පාරිභෝගිකයින් විශ්මයට පත් කිරීම.",
+        "To discourage customers from staying too long. වැඩි වේලාවක් රැඳී සිටීමෙන් පාරිභෝගිකයින් අධෛර්යමත් කිරීමට.",
+        "To create a comfortable and inviting space for both customers and staff. ගනුදෙනුකරුවන්ට සහ කාර්ය මණ්ඩලය සඳහා සුවපහසු සහ ආරාධිත අවකාශයක් නිර්මාණය කිරීම.",
+        "To showcase the cafe's cleaning equipment. කැෆේ පිරිසිදු කිරීමේ උපකරණ ප්‍රදර්ශනය කිරීමට."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "ops-14",
+      "section": "Cafe Operational Standards",
+      "q": "What's the most appropriate way to greet customers when they enter the cafe? පාරිභෝගිකයින් ආපන ශාලාවට ඇතුළු වන විට ඔවුන්ට ආචාර කිරීමට වඩාත්ම සුදුසු ක්‍රමය කුමක්ද?",
+      "opts": [
+        "Wait for the customer to approach staff first. පාරිභෝගිකයා පළමුව කාර්ය මණ්ඩලය වෙත පැමිණෙන තෙක් රැඳී සිටින්න.",
+        "Use a friendly greeting like \"Welcome to Coffee House!\" with a smile and eye contact. \"Coffee House වෙත සාදරයෙන් පිළිගනිමු!\" වැනි මිත්‍රශීලී ආචාරයක් භාවිතා කරන්න. සිනහවකින් සහ ඇස් ස්පර්ශයකින්.",
+        "Ignore them and continue working. ඒවා නොසලකා හැර දිගටම වැඩ කරන්න.",
+        "Immediately try to sell them a specific promotion. ඔවුන්ට නිශ්චිත ප්‍රවර්ධනයක් විකිණීමට වහාම උත්සාහ කරන්න."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "ops-15",
+      "section": "Cafe Operational Standards",
+      "q": "When a customer is leaving the cafe, what's the best way to bid farewell? පාරිභෝගිකයෙකු කැෆේ එකෙන් පිටව යන විට, සමුගැනීමට හොඳම ක්‍රමය කුමක්ද?",
+      "opts": [
+        "Rush them out the door to clean their table quickly. ඉක්මනින් ඔවුන්ගේ මේසය පිරිසිදු කිරීමට ඔවුන්ව දොරෙන් එළියට දමන්න.",
+        "Ask them for detailed feedback on their experience. ඔවුන්ගේ අත්දැකීම් පිළිබඳ සවිස්තරාත්මක ප්‍රතිපෝෂණ සඳහා ඔවුන්ගෙන් විමසන්න.",
+        "Thank them for their visit and express hope to see them again, with a smile. ඔවුන්ගේ පැමිණීම සඳහා ඔවුන්ට ස්තුති කර සිනහවකින් ඔවුන්ව නැවත දැකීමට බලාපොරොත්තුව පළ කරන්න.",
+        "Say nothing and avoid eye contact. කිසිවක් නොකියන්න සහ ඇස් ස්පර්ශ කිරීමෙන් වළකින්න."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "ops-16",
+      "section": "Cafe Operational Standards",
+      "q": "What topics are MOST likely to be covered during a daily cafe briefing? දිනපතා ආපනශාලා බ්‍රර්ෆින් කදී ආවරණය කිරීමට බොහෝ දුරට ඉඩ ඇති මාතෘකා මොනවාද?",
+      "opts": [
+        "Grooming and appearance expectations, menu knowledge, and staffing allocations. හැඩගැන්වීම් සහ පෙනුම අපේක්ෂාවන්, මෙනු දැනුම, සහ කාර්ය මණ්ඩල ප්‍රතිපාදන.",
+        "In-depth training on a new brewing technique. නව පෙරන තාක්ෂණයක් පිළිබඳ ගැඹුරු පුහුණුවක්.",
+        "Staff vacation requests and personal schedules. කාර්ය මණ්ඩල නිවාඩු ඉල්ලීම් සහ පුද්ගලික කාලසටහන්.",
+        "Staff's social media updates and weekend plans. කාර්ය මණ්ඩලයේ සමාජ මාධ්‍ය යාවත්කාලීන සහ සති අන්ත සැලසුම්."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "ops-17",
+      "section": "Cafe Operational Standards",
+      "q": "Why is it important to discuss \"not available\" items during the daily briefing? දෛනික සාරාංශය අතරතුර \"නොලබන\" අයිතම සාකච්ඡා කිරීම වැදගත් වන්නේ ඇයි?",
+      "opts": [
+        "To discourage customers from ordering these items. මෙම අයිතම ඇණවුම් කිරීමෙන් පාරිභෝගිකයින් අධෛර්යමත් කිරීම.",
+        "To ensure staff can inform customers accurately and avoid disappointment. කාර්ය මණ්ඩලය පාරිභෝගිකයින්ට නිවැරදිව දැනුම් දිය හැකි අතර බලාපොරොත්තු සුන්වීම වළක්වා ගත හැකිය.",
+        "To punish staff for any inventory issues. යම් බඩු තොග ගැටළු සඳහා කාර්ය මණ්ඩලයට දඬුවම් කිරීම.",
+        "It's not necessary to discuss unavailable items unless a customer asks. පාරිභෝගිකයෙකු අසන්නේ නම් මිස ලබා ගත නොහැකි අයිතම ගැන සාකච්ඡා කිරීම අවශ්‍ය නොවේ."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "ops-18",
+      "section": "Cafe Operational Standards",
+      "q": "Which of the following aspects is MOST emphasized in the \"PLACE\" element of service excellence? සේවා විශිෂ්ඨත්වයේ \"PLACE\" මූලිකාංගයේ පහත සඳහන් කුමන අංගයන් වඩාත් අවධාරණය කර තිබේද?",
+      "opts": [
+        "Maintaining a clean, organized, and visually appealing cafe environment. පිරිසිදු, සංවිධානාත්මක සහ දෘශ්‍යමාන කැෆේ පරිසරයක් පවත්වා ගැනීම.",
+        "Encouraging customers to stay for extended periods. දිගු කාලයක් රැඳී සිටීමට පාරිභෝගිකයින් දිරිමත් කිරීම.",
+        "Playing loud music to create a lively atmosphere. සජීවී වාතාවරණයක් ඇති කිරීම සඳහා ඝෝෂාකාරී සංගීතය වාදනය කිරීම.",
+        "Focusing on the cafe's location and accessibility. කැෆේ ස්ථානය සහ ප්‍රවේශ්‍යතාව කෙරෙහි අවධානය යොමු කිරීම"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "ops-19",
+      "section": "Cafe Operational Standards",
+      "q": "Why is it important to treat every customer with respect? සෑම පාරිභෝගිකයෙකුටම ගෞරවයෙන් සැලකීම වැදගත් වන්නේ ඇයි?",
+      "opts": [
+        "Only treat friendly or polite customers well. මිත්‍රශීලී හෝ ආචාරශීලී පාරිභෝගිකයින්ට පමණක් හොඳින් සලකන්න",
+        "Every customer contributes to the cafe's business, and discrimination shouldn't occur. සෑම පාරිභෝගිකයෙක්ම කැෆේ ව්‍යාපාරයට දායක වන අතර වෙනස් කොට සැලකීම සිදු නොවිය යුතුය.",
+        "Focus on serving customers who order the most expensive items. වඩාත්ම මිල අධික භාණ්ඩ ඇණවුම් කරන පාරිභෝගිකයින්ට සේවය කිරීම කෙරෙහි අවධානය යොමු කරන්න.",
+        "Ignore customers who seem quiet or reserved. නිශ්ශබ්දව හෝ වෙන්ව සිටින බව පෙනෙන පාරිභෝගිකයින් නොසලකා හරින්න."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "ops-20",
+      "section": "Cafe Operational Standards",
+      "q": "How can staff positively impact customer perception of the cafe? කාර්ය මණ්ඩලය ආපනශාලාව පිළිබඳ පාරිභෝගික සංජානනය කෙරෙහි ධනාත්මක බලපෑමක් ඇති කරන්නේ කෙසේද?",
+      "opts": [
+        "Engage in loud conversations with co-workers while customers wait. ගනුදෙනුකරුවන් බලා සිටින අතරතුර සම සේවකයින් සමඟ ඝෝෂාකාරී සංවාදයක යෙදෙන්න.",
+        "Gossip about customers with other staff members. අනෙකුත් කාර්ය මණ්ඩල සාමාජිකයින් සමඟ ගනුදෙනුකරුවන් ගැන ඕපාදූප.",
+        "Avoid personal calls or eating in front of customers. Maintain a professional appearance.පුද්ගලික ඇමතුම් හෝ පාරිභෝගිකයන් ඉදිරියේ ආහාර ගැනීමෙන් වළකින්න. වෘත්තීය පෙනුමක් පවත්වා ගන්න.",
+        "Ignore customer requests and focus on personal tasks. පාරිභෝගික ඉල්ලීම් නොසලකා හැර පුද්ගලික කාර්යයන් කෙරෙහි අවධානය යොමු කරන්න."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "tea-1",
+      "section": "Tea",
+      "q": "Which of the following is the scientific name for the tea plant? තේ පැළයේ විද්‍යාත්මක නාමය කුමක්ද?",
+      "opts": [
+        "Camellia sinensis කැමෙලියා සයිනෙන්සිස්",
+        "Oryza sativa ඕරිසා සතිවා",
+        "Coffea arabica කෝපි අරාබිකා",
+        "Theobroma cacao තියෝබ්‍රෝමා කොකෝවා"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "tea-2",
+      "section": "Tea",
+      "q": "What does the lion logo signify when associated with tea packaging? තේ ඇසුරුම් සමඟ සම්බන්ධ වූ විට සිංහ ලාංඡනය අදහස් කරන්නේ කුමක්ද?",
+      "opts": [
+        "It signifies pure Ceylon tea packed in Sri Lanka and meets the quality standards set by the Sri Lanka Tea Board. එය ශ්‍රී ලංකාවේ ඇසුරුම් කරන ලද පිරිසිදු ලංකා තේ සංකේතවත් කරන අතර ශ්‍රී ලංකා තේ මණ්ඩලය විසින් නියම කර ඇති තත්ත්ව ප්‍රමිතීන්ට අනුකූල වේ. *",
+        "It indicates that the tea is organic and environmentally friendly. එයින් පෙන්නුම් කරන්නේ තේ කාබනික සහ පරිසර හිතකාමී බවයි.",
+        "It represents a brand of lion-themed products. එය සිංහ තේමා නිෂ්පාදන සන්නාමයක් නියෝජනය කරයි.",
+        "It denotes fair-trade certification for Sri Lankan tea. එය ශ්‍රී ලංකා තේ සඳහා සාධාරණ වෙළඳ සහතිකයක් දක්වයි."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "tea-3",
+      "section": "Tea",
+      "q": "Which of the following are tea growing regions in Sri Lanka? පහත සඳහන් දේවලින් ශ්‍රී ලංකාවේ තේ වගා කරන ප්‍රදේශ  කොහේද?",
+      "opts": [
+        "Yunnan, Fujian, Zhejiang, Anhui යුනාන්, ෆුජියන්, ෂෙජියැං, අන්හුයි",
+        "Darjeeling, Assam, Nilgiri, Kangra ඩාර්ජිලින් ඇසෑම්, නිල්ගිරි, කන්ග්‍රා",
+        "Nuwara Eliya, Uva, Kandy, Dimbula, Ruhuna, and Sabaragamuwa නුවරඑළිය, ඌව, මහනුවර, දිඹුල, රුහුණු, සහ සබරගමුව",
+        "Kerala, Tamil Nadu, Karnataka, Maharashtra කේරළ, තමිල්නාඩු, කර්නාටක, මහාරාෂ්ට්‍ර"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "tea-4",
+      "section": "Tea",
+      "q": "What is herbal tea? ශාකසාර තේ යනු කුමක්ද?",
+      "opts": [
+        "A beverage made from the infusion of herbs, spices, flowers, or other plant material in hot water, excluding the leaves of Camellia sinensis. කැමිලියා සයිනෙන්සිස් කොළ හැර උණු වතුරේ ඖෂධ පැළෑටි, කුළුබඩු, මල් හෝ වෙනත් ශාක ද්‍රව්‍ය වලින් සාදන ලද පානයකි.",
+        "A type of tea made from the leaves of Camellia sinensis. කැමිලියා සයිනෙන්සිස් කොළ වලින් සාදන ලද තේ වර්ගයකි.",
+        "A tea blend that includes both black tea and green tea leaves. කළු තේ සහ හරිත තේ කොළ යන දෙකම ඇතුළත් තේ මිශ්‍රණයක්.",
+        "A carbonated drink made with natural herbal extracts. ස්වභාවික ශාකසාර සාරය සමඟ සාදන ලද කාබනීකෘත බීම."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "tea-5",
+      "section": "Tea",
+      "q": "What is single origin tea? තනි සම්භවයක් ඇති තේ යනු කුමක්ද?",
+      "opts": [
+        "Tea that is sourced from one specific region, estate, or garden, highlighting unique characteristics. සුවිශේෂී ලක්ෂණ ඉස්මතු කරමින් එක් නිශ්චිත කලාපයකින්, වතුයායකින් හෝ ගෙවත්තකින් ලබා ගන්නා තේ.",
+        "Tea that is a blend of leaves from various regions. විවිධ ප්‍රදේශ වල කොළ මිශ්‍රණයක් වන තේ.",
+        "Tea that is flavored with natural herbs and spices. ස්වභාවික ඖෂධ පැළෑටි සහ කුළු බඩු සමග රස කළ තේ.",
+        "Tea that is processed in a single factory. තනි කර්මාන්ත ශාලාවක සකසන ලද තේ."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "tea-6",
+      "section": "Tea",
+      "q": "What does CTC tea mean? CTC තේ යන්නෙන් අදහස් කරන්නේ කුමක්ද?",
+      "opts": [
+        "A technique for brewing tea using cold water. සීතල ජලය භාවිතයෙන් තේ පෙරන තාක්ෂණයක්.",
+        "A method of blending various tea types. විවිධ තේ වර්ග මිශ්ර කිරීමේ ක්රමයක්.",
+        "A traditional method of hand-rolling tea leaves. තේ දළු අතින් පෙරළීමේ සම්ප්‍රදායික ක්‍රමයකි.",
+        "Crush, Tear, Curl; a method of processing black tea in which leaves are mechanically cut and rolled into small pellets. තලලා , කපලා, කර්ල් කළු තේ සැකසීමේ ක්‍රමයක් වන අතර එහි කොළ යාන්ත්‍රිකව කපා කුඩා පෙති වලට රෝල් කරයි."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "tea-7",
+      "section": "Tea",
+      "q": "What is flavored tea? රස කළ තේ යනු කුමක්ද?",
+      "opts": [
+        "Tea leaves picked at a specific time of year. වසරේ නිශ්චිත කාලයකදී තේ දළු නෙළීම.",
+        "Tea blended with other loose-leaf teas, like black and green tea. කළු සහ කොළ තේ වැනි අනෙකුත් ලිහිල් කොළ තේ සමඟ මිශ්‍ර කළ තේ.",
+        "A specific type of tea plant grown in a particular region. යම් ප්‍රදේශයක වැවෙන විශේෂිත තේ පැළ වර්ගයකි.",
+        "Tea that has added flavors from natural or artificial sources, such as fruits, flowers, spices, or herbs. පලතුරු, මල්, කුළුබඩු හෝ ඖෂධ පැළෑටි වැනි ස්වභාවික හෝ කෘතිම මූලාශ්රවලින් රස එකතු කළ තේ."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "tea-8",
+      "section": "Tea",
+      "q": "How should tea be stored at home? නිවසේ තේ ගබඩා කළ යුත්තේ කෙසේද?",
+      "opts": [
+        "In a glass jar on the windowsill to get natural light. ස්වාභාවික ආලෝකය ලබා ගන්නා ලෙස එය කන්නඩි බඳුනක ජනෙල් අසල තබා ගන්න.",
+        "In the refrigerator to keep it cool and fresh. එය ශීතකරණයේ තබා සීතල සහ පිරිසිදු තබා ගන්න.",
+        "In a plastic bag near the stove for easy access. පහසුවෙන් ප්‍රවේශවීම සඳහා එය විදුලි පහන ආසන්නයේ ප්ලාස්ටික් මල්ලක තබා ගන්න.",
+        "Keep it in an airtight container, away from light, heat, moisture, and strong odors. එය වාතය රහිත භාජනයක, ආලෝකයෙන්, උෂ්ණයෙන්, තෙතමනයෙන් සහ තද ගඳවල් වලින් දුරස්තව තබා ගන්න."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "tea-9",
+      "section": "Tea",
+      "q": "What are the tea processing methods? තේ සැකසුම් ක්‍රම මොනවාද?",
+      "opts": [
+        "Grinding, pressing, and steeping. ඇඹරීම, තද කිරීම සහ ඇලවීම.",
+        "Fermentation, oxidation, and roasting. පැසවීම, ඔක්සිකරණය සහ රෝස් කිරීම.",
+        "Orthodox, CTC (Crush, Tear, Curl), and other specialized methods like green, white, and oolong tea processing. ඕතඩොක්ස්, CTC (Crush, Tear, Curl) සහ කොළ, සුදු සහ ඕලොන්ග් තේ සැකසීම වැනි වෙනත් විශේෂිත ක්‍රම.",
+        "Blending, brewing, and packaging. මිශ්ර කිරීම, පෙරීම සහ ඇසුරුම් කිරීම."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "tea-10",
+      "section": "Tea",
+      "q": "What is the orthodox method? ඕතඩොක්ස් ක්රමය යනු කුමක්ද?",
+      "opts": [
+        "A method of storing tea in a particular order for optimal freshness. ප්‍රශස්ත නැවුම් බව සඳහා විශේෂිත අනුපිළිවෙලකට තේ ගබඩා කිරීමේ ක්‍රමයක්.",
+        "A modern technique of processing tea using advanced machinery. උසස් යන්ත්‍රෝපකරණ භාවිතයෙන් තේ සැකසීමේ නවීන තාක්ෂණය.",
+        "Traditional method of processing tea involving plucking, withering, rolling, oxidizing, and drying. තේ නෙලීම, මැලවීම, පෙරළීම, ඔක්සිකරණය සහ වියළීම ඇතුළත් තේ සැකසීමේ සම්ප්‍රදායික ක්‍රමය.",
+        "A method of brewing tea with precise measurements and timing. නිරවද්‍ය මිනුම් සහ වේලාවන් සහිත තේ පෙරන ක්‍රමයක්."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "tea-11",
+      "section": "Tea",
+      "q": "Why is Ceylon tea very special to the world? සිලෝන් ටී ලොවට සුවිශේෂී වන්නේ ඇයි?",
+      "opts": [
+        "It is exclusively grown using organic farming methods. එය කාබනික ගොවිතැන් ක්‍රම භාවිතයෙන් පමණක් වගා කෙරේ.",
+        "It is the oldest tea-producing region in the world. එය ලෝකයේ පැරණිතම තේ නිෂ්පාදනය කරන කලාපයයි.",
+        "Specialty of Ceylon tea: Unique flavor, aroma, and color due to the diverse climates and elevations in Sri Lanka's tea-growing regions. ලංකා තේ වල විශේෂත්වය: ශ්‍රී ලංකාවේ තේ වගා කරන ප්‍රදේශවල විවිධ දේශගුණික තත්ත්වයන් සහ උන්නතාංශය හේතුවෙන් අද්විතීය රසය, සුවඳ සහ වර්ණය.",
+        "It has the highest caffeine content among all teas. සියලුම තේ වර්ග අතර ඉහළම කැෆේන් අන්තර්ගතය එහි ඇත."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "tea-12",
+      "section": "Tea",
+      "q": "What are the tea plucking methods? තේ නෙළීමේ ක්‍රම මොනවාද?",
+      "opts": [
+        "Traditional plucking and modern plucking. සාම්ප්‍රදායික නෙලීම සහ නවීන නෙලීම.",
+        "Manual extraction and mechanical extraction. අතින් නිස්සාරණය සහ යාන්ත්රික නිස්සාරණය.",
+        "Tea picking and tea harvesting. තේ නෙලීම සහ තේ අස්වැන්න.",
+        "Hand plucking and machine plucking. අතින් නෙලීම සහ යන්ත්‍ර නෙලීම."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "tea-13",
+      "section": "Tea",
+      "q": "What is black tea? කළු තේ යනු කුමක්ද?",
+      "opts": [
+        "Tea made from black-colored leaves. කළු පැහැති කොළ වලින් සාදන ලද තේ.",
+        "A type of tea that is harvested during the night. රාත්‍රියේ අස්වනු නෙලන තේ වර්ගයකි.",
+        "Fully oxidized tea, known for its strong flavor and dark color. සම්පූර්ණයෙන්ම ඔක්සිකරණය වූ තේ, එහි ශක්තිමත් රසය සහ තද වර්ණය සඳහා ප්රසිද්ධය.",
+        "Tea that is only consumed by individuals with a dark sense of humor. අඳුරු හාස්‍යජනක හැඟීමක් ඇති පුද්ගලයින් පමණක් පරිභෝජනය කරන තේ."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "tea-14",
+      "section": "Tea",
+      "q": "What is green tea? හරිත තේ යනු කුමක්ද?",
+      "opts": [
+        "Tea that is brewed using green-colored cups. කොළ පැහැති කෝප්ප භාවිතයෙන් පෙරන ලද තේ.",
+        "Tea that is harvested early in the morning. උදේ පාන්දර අස්වැන්න නෙළන තේ.",
+        "Unoxidized tea, known for its lighter flavor and green color. ඔක්සිකරණය නොකළ තේ, එහි සැහැල්ලු රසය සහ කොළ වර්ණය සඳහා ප්රසිද්ධය.",
+        "Tea made from green-colored leaves. කොළ පැහැති කොළ වලින් සාදන ලද තේ."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "tea-15",
+      "section": "Tea",
+      "q": "What is white tea? සුදු තේ යනු කුමක්ද?",
+      "opts": [
+        "Minimally processed tea made from young leaves and buds, known for its delicate flavor. තරුණ කොළ සහ අංකුර වලින් සාදන ලද අවම වශයෙන් සැකසූ තේ, එහි සියුම් රසය සඳහා ප්රසිද්ධය.",
+        "Tea that is brewed with milk. කිරි සමග පෙරන ලද තේ.",
+        "Tea harvested during the winter season. ශීත ඍතුවේ දී අස්වැන්න නෙළන ලද තේ.",
+        "Tea that is naturally white in color. ස්වභාවිකව සුදු පැහැති තේ."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "tea-16",
+      "section": "Tea",
+      "q": "What do you mean by high grown tea? ඉහළ තේ ලෙස ඔබ අදහස් කරන්නේ කුමක්ද?",
+      "opts": [
+        "Tea grown at elevations above 4,000 feet, typically lighter in flavor. අඩි 4,000 ට වැඩි උන්නතාංශවල වැවෙන තේ, සාමාන්‍යයෙන් සැහැල්ලු රසය.",
+        "Tea harvested during the peak season. උච්ච සමයේදී අස්වනු නෙළන ලද තේ.",
+        "Tea produced using advanced agricultural techniques. උසස් කෘෂිකාර්මික ශිල්පීය ක්‍රම භාවිතයෙන් තේ නිෂ්පාදනය කිරීම.",
+        "Tea cultivated in tall bushes. උස පඳුරු වල වගා කරන ලද තේ."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "tea-17",
+      "section": "Tea",
+      "q": "What do you mean by mid grown tea? මැදින් වැඩුණු තේ යන්නෙන් ඔබ අදහස් කරන්නේ කුමක්ද?",
+      "opts": [
+        "Tea cultivated in the middle of the tea plantation. තේ වතු මැද වගා කරන ලද තේ.",
+        "Tea produced during the middle of the growing season. වර්ධනය වන සමයේ මැද භාගයේ නිපදවන තේ.",
+        "Tea grown at elevations between 2,000 and 4,000 feet, with a well-balanced flavor. හොඳින් සමතුලිත රසයක් සහිත අඩි 2,000 සහ 4,000 අතර උන්නතාංශවල වැවෙන තේ.",
+        "Tea harvested from bushes of medium height. මධ්යම උස පඳුරු වලින් නෙලා ගන්නා ලද තේ."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "tea-18",
+      "section": "Tea",
+      "q": "What do you mean by low grown tea? අඩු තේ ලෙස ඔබ අදහස් කරන්නේ කුමක්ද?",
+      "opts": [
+        "grown at elevations below 2,000 feet, usually fuller-bodied and darker. අඩි 2,000 ට අඩු උන්නතාංශවල වැඩෙන අතර, සාමාන්‍යයෙන් ෆුල් බොඩි සහ අඳුරු වේ.",
+        "Tea harvested from bushes of shorter height. අඩු උසකින් යුත් පඳුරු වලින් නෙලා ගන්නා ලද තේ.",
+        "Tea produced during the early stages of the growing season. වර්ධනය වන සමයේ මුල් අවධියේදී තේ නිපදවනු ලැබේ.",
+        "Tea cultivated in areas with low precipitation. අඩු වර්ෂාපතනයක් සහිත ප්‍රදේශවල තේ වගා කෙරේ."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "tea-19",
+      "section": "Tea",
+      "q": "Who introduced tea to Sri Lanka? ශ්‍රී ලංකාවට තේ හඳුන්වා දුන්නේ කවුද?",
+      "opts": [
+        "Portuguese explorers in the 16th century. 16 වැනි සියවසේ පෘතුගීසි ගවේෂකයෝ.",
+        "Dutch traders in the 17th century. 17 වන සියවසේ ලන්දේසි වෙළඳුන්.",
+        "Chinese immigrants in the 18th century. 18 වන සියවසේ චීන සංක්‍රමණිකයන්.",
+        "Introduced by British planter James Taylor in 1867. 1867 දී බ්‍රිතාන්‍ය වැවිලිකරුවෙකු වන ජේම්ස් ටේලර් විසින් හඳුන්වා දෙන ලදී."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "tea-20",
+      "section": "Tea",
+      "q": "What is considered healthy soil for tea? තේ සඳහා සෞඛ්‍ය සම්පන්න පස ලෙස සැලකෙන්නේ කුමක්ද?",
+      "opts": [
+        "Clayey soil with high moisture retention. අධික තෙතමනය රඳවා තබා ගන්නා මැටි පස.",
+        "Healthy soil Well-drained, slightly acidic soil rich in organic matter and nutrients. සෞඛ්‍ය සම්පන්න පස කාබනික ද්‍රව්‍ය සහ පෝෂ්‍ය පදාර්ථ වලින් පොහොසත් හොඳින් ජලය බැස යන තරමක් ආම්ලික පස.",
+        "Sandy soil with low organic matter content. අඩු කාබනික ද්රව්ය අන්තර්ගතය සහිත වැලි පස.",
+        "Alkaline soil with poor drainage. දුර්වල ජලාපවහන සහිත ක්ෂාරීය පස."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "food-1",
+      "section": "Food Safety & Hygiene",
+      "q": "Name three of the quality and process certificates that a hotel company may have? (Choose three) හෝටලයකට තිබිය හැකි තත්ත්වසහතික තුනක් නම්කරන්න",
+      "opts": [
+        "ISO 9001, ISO 14001, Food Safety / ISO 9001, ISO 14001, ආහාර සුරක්ෂිතතාව",
+        "Certification Five-Star Rating from Travel, Magazine Locally Owned Business Award, ISO 9001 / Travel වෙතින් තරු පහේ ශ්‍රේණිගත කිරීම සහතික කිරීම, සඟරාව දේශීයව හිමි ව්‍යාපාර සම්මානය, ISO 9001",
+        "Certification Five-Star Rating from Travel, ISO 9001, ISO 14001 / සංචාරකයා වෙතින් තරු පහේ ශ්‍රේණිගත කිරීම, ISO 9001, ISO 14001 සහතිකය",
+        "Food Safety, Management System (e.g., ISO 22000)Green Cleaning, Certification Five-Star Rating from Travel / ආහාර සුරක්ෂිතතාව, කළමනාකරණ පද්ධතිය (උදා: ISO 22000) හරිත පිරිසිදු කිරීම, සංචාරක සිට තරු පහේ ශ්‍රේණිගත කිරීම සහතික කිරීම"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "food-2",
+      "section": "Food Safety & Hygiene",
+      "q": "What are some of the KEY benefits an organization gains from preparing and selling safe food to the public (Choose ALL that apply)? මහජනතාවට ආරක්ෂිත ආහාර පිළියෙළ කිරීම සහ විකිණීමෙන් සංවිධානයක් ලබා ගන්නා ප්‍රධාන ප්‍රතිලාභ මොනවාද (අදාළ සියල්ල තෝරන්න)?",
+      "opts": [
+        "It saves money on staff training related to food safety. එය ආහාර සුරක්ෂිතතාව සම්බන්ධ කාර්ය මණ්ඩල පුහුණුව සඳහා මුදල් ඉතිරි කරයි.",
+        "It improves customer satisfaction and loyalty. එය පාරිභෝගික තෘප්තිය සහ පක්ෂපාතිත්වය වැඩි දියුණු කරයි.",
+        "It reduces the risk of food spoilage.එය ආහාර නරක් වීමේ අවදානම අඩු කරයි.",
+        "It allows for faster food preparation times. එය වේගවත් ආහාර පිළියෙල කිරීමේ වේලාවන් සඳහා ඉඩ සලසයි.",
+        "It reduces the risk of legal action from foodborne illness outbreaks. එය ආහාර මගින් බෝවන රෝග පැතිරීමේ නීතිමය ක්‍රියාමාර්ගවල අවදානම අඩු කරයි.",
+        "It allows the organization to use lower quality ingredients. එය ආයතනයට අඩු ගුණාත්මක අමුද්‍රව්‍ය භාවිතා කිරීමට ඉඩ සලසයි."
+      ],
+      "correct": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "food-3",
+      "section": "Food Safety & Hygiene",
+      "q": "What are some of the negative consequences an organization might face if they sell unsafe food to the public (Choose ALL that apply)? සංවිධානයක් මහජනතාවට අනාරක්ෂිත ආහාර අලෙවි කළහොත් (අදාළ සියල්ල තෝරන්න) මුහුණ දිය හැකි අහිතකර ප්‍රතිඵල මොනවාද?",
+      "opts": [
+        "They could experience increased staff morale due to less pressure on food safety. ආහාර සුරක්ෂිතතාව පිළිබඳ අඩු පීඩනය හේතුවෙන් කාර්ය මණ්ඩලයේ චිත්ත ධෛර්යය වැඩි වීම අත්විඳිය හැකිය.",
+        "They may receive positive press coverage for their unique approach. ඔවුන්ගේ අද්විතීය ප්‍රවේශය සඳහා ඔවුන්ට ධනාත්මක මාධ්‍ය ආවරණයක් ලැබිය හැකිය.",
+        "They may attract customers seeking a more adventurous dining experience. ඔවුන් වඩාත් වික්‍රමාන්විත භෝජන අත්දැකීමක් අපේක්ෂා කරන ගනුදෙනුකරුවන් ආකර්ෂණය කර ගත හැකිය.",
+        "They may attract a higher number of health inspectors. ඔවුන් සෞඛ්‍ය පරීක්ෂකවරුන් වැඩි සංඛ්‍යාවක් ආකර්ෂණය කර ගත හැකිය.",
+        "They could experience a decrease in customer satisfaction and loyalty. ඔවුන්ට පාරිභෝගික තෘප්තිය සහ පක්ෂපාතිත්වයේ අඩුවීමක් අත්විඳිය හැකිය.",
+        "They could face legal action from foodborne illness outbreaks. ආහාර මගින් බෝවන රෝග පැතිර යාමෙන් ඔවුන්ට නීතිමය ක්‍රියාමාර්ගවලට මුහුණ දිය හැකිය."
+      ],
+      "correct": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "food-4",
+      "section": "Food Safety & Hygiene",
+      "q": "What are the THREE primary categories of hazards that can lead to food contamination? ආහාර අපවිත්‍ර වීමට හේතු විය හැකි ප්‍රධාන උපද්‍රව වර්ග තුනක් මොනවාද?",
+      "opts": [
+        "Chemical contamination, allergen presence, and excessive sugar content. රසායනික දූෂණය, අසාත්මිකතා පැවතීම සහ අධික සීනි අන්තර්ගතය.",
+        "Flavor issues, presentation problems, and temperature variations. රස ගැටළු, ඉදිරිපත් කිරීමේ ගැටළු සහ උෂ්ණත්ව වෙනස්කම්.",
+        "Nutritional deficiencies, improper portion sizes, and limited menu options. පෝෂණ ඌනතා, නුසුදුසු කොටස් ප්‍රමාණ සහ සීමිත මෙනු විකල්ප.",
+        "Biological hazards, chemical hazards, and physical hazards. ජීව විද්‍යාත්මක උපද්‍රව, රසායනික උපද්‍රව සහ භෞතික උපද්‍රව."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "food-5",
+      "section": "Food Safety & Hygiene",
+      "q": "Which of the following are NOT potential consequences of consuming unsafe food (contaminated food)? පහත සඳහන් ඒවායින් අනාරක්ෂිත ආහාර (දූෂිත ආහාර) පරිභෝජනයෙන් ඇති විය නොහැකි ප්‍රතිවිපාක මොනවාද?",
+      "opts": [
+        "Improved immune system function due to exposure to new bacteria. නව බැක්ටීරියා වලට නිරාවරණය වීම හේතුවෙන් ප්රතිශක්තිකරණ පද්ධතියේ ක්රියාකාරිත්වය වැඩිදියුණු කිරීම.",
+        "Dehydration due to excessive fluid loss during illness. රෝගාබාධවලදී අධික තරලයක් අහිමි වීම නිසා විජලනය වීම.",
+        "Development of food allergies or intolerances. ආහාර අසාත්මිකතා හෝ නොඉවසීම වර්ධනය වීම.",
+        "Serious illness requiring hospitalization in some cases. සමහර අවස්ථාවල රෝහල් ගත කිරීම අවශ්‍ය වන බරපතල රෝගාබාධ.",
+        "Food poisoning with symptoms like vomiting, diarrhea, and nausea. වමනය, පාචනය සහ ඔක්කාරය වැනි රෝග ලක්ෂණ සහිත ආහාර විෂ වීම."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "food-6",
+      "section": "Food Safety & Hygiene",
+      "q": "Which of the following are potential mistakes food handlers can make that could increase the risk of foodborne illness (Choose ALL that apply)? ආහාර පරිහරණය කරන්නන් විසින් ආහාර මගින් බෝවන රෝග ඇතිවීමේ අවදානම වැඩි කළ හැකි පහත සඳහන් වැරදිවලින් කුමන වැරදිද (අදාළ සියල්ල තෝරන්න)?",
+      "opts": [
+        "Thawing frozen food in the refrigerator overnight. ශීත කළ ආහාර එක රැයකින් ශීතකරණයේ උණු කිරීම.",
+        "Storing raw meat above cooked food in a refrigerator.ශීතකරණයක් තුළ පිසූ ආහාරවලට ඉහළින් අමු මස් ගබඩා කිරීම.",
+        "Following proper handwashing procedures before and after handling food. ආහාර හැසිරවීමට පෙර සහ පසු නිසි අත් සේදීමේ ක්‍රියා පටිපාටි අනුගමනය කිරීම.",
+        "Using separate cutting boards for raw meat and vegetables. අමු මස් සහ එළවළු සඳහා වෙනම කැපුම් පුවරු භාවිතා කිරීම.",
+        "Using a thermometer to check internal food temperatures for safety. ආරක්ෂාව සඳහා අභ්යන්තර ආහාර උෂ්ණත්වය පරීක්ෂා කිරීම සඳහා උෂ්ණත්වමානයක් භාවිතා කිරීම.",
+        "Leaving cooked food in the \"danger zone\" (between 40°F and 140°F) for extended periods. දීර්ඝ කාලයක් සඳහා පිසූ ආහාර \"අන්තරායකර කලාපයේ\" (40°F සහ 140°F අතර) තැබීම.",
+        "Not reheating leftovers to an adequate safe temperature.ඉතිරි වූ දේ ප්‍රමාණවත් ආරක්ෂිත උෂ්ණත්වයකට නැවත රත් නොකිරීම.",
+        "Failing to report any illness symptoms to a supervisor. කිසියම් රෝග ලක්ෂණයක් අධීක්ෂක වෙත වාර්තා කිරීමට අපොහොසත් වීම."
+      ],
+      "correct": [
+        1,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "food-7",
+      "section": "Food Safety & Hygiene",
+      "q": "Which of the following are MOST LIKELY to be physical hazards in a cafe environment, potentially causing injury to customers? (Choose ALL that apply) පාරිභෝගිකයින්ට හානියක් විය හැකි, ආපනශාලා පරිසරයක් තුළ භෞතික උපද්‍රව වීමට බොහෝ දුරට ඉඩ ඇති පහත ඒවායින් මොනවාද? (අදාළ සියල්ල තෝරන්න)",
+      "opts": [
+        "Wood shavings, jewelry, and fingernails. ලී රැවුල, ස්වර්ණාභරණ, සහ නියපොතු.",
+        "Napkins and straws නැප්කින් සහ බිම බට",
+        "Stone from a ring & hair pins. මුද්දක ගල් සහ කොණ්ඩ කටු වලින් .",
+        "Coffee grounds and tea leaves කෝපි පිටි සහ තේ කොළ",
+        "Glass shards, metal fragments, and pieces of worn equipment. වීදුරු කැබලි, ලෝහ කැබලි, සහ ගෙවී ගිය උපකරණ.",
+        "Toothpicks ටූත් පික්",
+        "Sugar packets and disposable stirrers සීනි පැකට් සහ ඉවත දැමිය හැකි කලවම්"
+      ],
+      "correct": [
+        0,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "food-8",
+      "section": "Food Safety & Hygiene",
+      "q": "Biological hazards, which can cause foodborne illness, include: ආහාර මගින් බෝවන රෝග ඇති කළ හැකි ජීව විද්‍යාත්මක උපද්‍රවවලට ඇතුළත් වන්නේ:",
+      "opts": [
+        "Bacteria, viruses, fungi, and parasites බැක්ටීරියා, වෛරස්, දිලීර සහ පරපෝෂිතයන්",
+        "Improper storage temperatures and physical contaminants නුසුදුසු ගබඩා උෂ්ණත්වය සහ භෞතික දූෂණය",
+        "Allergens and cleaning chemicals අසාත්මිකතා සහ පිරිසිදු කිරීමේ රසායනික ද්රව්ය",
+        "Dust, smoke, and loud noises දූවිලි, දුම සහ අධික ශබ්ද"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "food-9",
+      "section": "Food Safety & Hygiene",
+      "q": "Which of the following is NOT a common symptom of food poisoning? ආහාර විෂ වීමේ පොදු රෝග ලක්ෂණයක් නොවන්නේ පහත ඒවායින් මොනවාද?",
+      "opts": [
+        "Skin rash සමේ දදයක්",
+        "Abdominal pain and diarrhea උදර වේදනාව සහ පාචනය",
+        "Fever and chills උණ",
+        "Headache and fatigue හිසරදය සහ තෙහෙට්ටුව"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "food-10",
+      "section": "Food Safety & Hygiene",
+      "q": "What practice significantly increases the risk of bacterial growth in food? ආහාරවල බැක්ටීරියා වර්ධනය වීමේ අවදානම සැලකිය යුතු ලෙස වැඩි කරන පිළිවෙත කුමක්ද?",
+      "opts": [
+        "Improper cooling of cooked food after preparation. පිසූ ආහාර පිළියෙළ කිරීමෙන් පසු නුසුදුසු ලෙස සිසිල් කිරීම.",
+        "Using a thermometer to check internal food temperatures. අභ්යන්තර ආහාර උෂ්ණත්වය පරීක්ෂා කිරීම සඳහා උෂ්ණත්වමානයක් භාවිතා කිරීම.",
+        "Reheating food to an appropriate temperature. සුදුසු උෂ්ණත්වයකට ආහාර නැවත රත් කිරීම.",
+        "Cooking food at the recommended temperature. නිර්දේශිත උෂ්ණත්වයේ දී ආහාර පිසීම."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "food-11",
+      "section": "Food Safety & Hygiene",
+      "q": "Consuming which of the following is most likely to cause foodborne illness? පහත සඳහන් දේවලින් ආහාර ගැනීමෙන් රෝග ඇති වීමට බොහෝ දුරට ඉඩ ඈත්තේ  කුමකින්ද?",
+      "opts": [
+        "Raw or undercooked seafood. අමු හෝ නොපිසූ මුහුදු ආහාර.",
+        "Properly refrigerated fruits. නිසි ලෙස ශීත කළ පලතුරු.",
+        "Fully cooked vegetables. සම්පූර්ණයෙන්ම පිසූ එළවළු.",
+        "Pasteurized milk products. පැස්ටරීකරණය කළ කිරි නිෂ්පාදන."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "food-12",
+      "section": "Food Safety & Hygiene",
+      "q": "Sanitizing equipment after cleaning is crucial because: පිරිසිදු කිරීමෙන් පසු උපකරණ සනිටයිස්  කිරීම ඉතා වැදගත් වන්නේ:",
+      "opts": [
+        "It removes visible dirt and debris.එය පෙනෙන අපිරිසිදු කුනු හා සුන්බුන් ඉවත් කරයි.",
+        "It extends the lifespan of the equipment. එය උපකරණවල ආයු කාලය දීර්ඝ කරයි.",
+        "It makes the equipment look more professional. එය උපකරණ වඩාත් වෘත්තීය පෙනුමක් ලබා දෙයි.",
+        "It eliminates harmful bacteria that can cause illness. එය රෝගාබාධ ඇති කළ හැකි හානිකර බැක්ටීරියා ඉවත් කරයි"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "food-13",
+      "section": "Food Safety & Hygiene",
+      "q": "Cross-contamination can be prevented by: පරකෙලසණය (ක්‍රොස්-කන්ටැමිනේෂන්) වළක්වා ගත හැක්කේ:",
+      "opts": [
+        "Rushing through food preparation tasks. ආහාර සැකසීමේ කාර්යයන් සඳහා ඉක්මන් වීම.",
+        "Following proper hygiene protocols and using separate utensils for raw and cooked food. නිසි සනීපාරක්ෂක ප්‍රොටෝකෝල අනුගමනය කිරීම සහ අමු සහ පිසූ ආහාර සඳහා වෙනම උපකරණ භාවිතා කිරීම.",
+        "Using the same cutting board for raw meat and vegetables. අමු මස් සහ එළවළු සඳහා එකම කැපුම් පුවරුව භාවිතා කිරීම.",
+        "Not restocking food containers until they are completely empty. ආහාර බහාලුම් සම්පූර්ණයෙන්ම හිස් වන තුරු නැවත ගොඩ නොගැනීම."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "food-14",
+      "section": "Food Safety & Hygiene",
+      "q": "Bacterial contamination in food preparation can originate from which of the following? ආහාර පිළියෙළ කිරීමේදී බැක්ටීරියා දූෂණය හටගත හැක්කේ පහත සඳහන් කවරකින් ද?",
+      "opts": [
+        "Using expired ingredients. කල් ඉකුත් වූ අමුද්රව්ය භාවිතා කිරීම.",
+        "Cooking food at incorrect temperatures. වැරදි උෂ්ණත්වවලදී ආහාර පිසීම.",
+        "People, raw food, the environment, and pests. මිනිසුන්, අමු ආහාර, පරිසරය සහ පළිබෝධකයන්.",
+        "Improper cleaning procedures only. නුසුදුසු පිරිසිදු කිරීමේ ක්රියා පටිපාටි පමණි."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "food-15",
+      "section": "Food Safety & Hygiene",
+      "q": "What is the correct temperature range of a refrigerator in degrees Celsius? සාමාන්‍ය ශීතකරණයක තිබිය යුතු   උෂ්ණත්ව පරාසය සෙල්සියස් අංශක වලින් දක්වන්න",
+      "opts": [
+        "1°C to 3°C",
+        "5°C to 10°C",
+        "0°C to 5°C",
+        "-5°C to 0°C"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "food-16",
+      "section": "Food Safety & Hygiene",
+      "q": "Mention the correct temperature range of a freezer  in degrees Celsius අධි-ශීතකරණයක තිබිය යුතු   උෂ්ණත්ව පරාසය සෙල්සියස් අංශක වලින් දක්වන්න",
+      "opts": [
+        "-10°C to -15°C",
+        "-5°C to -10°C",
+        "-18°C to -22°C",
+        "5°C to 10°C"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "food-17",
+      "section": "Food Safety & Hygiene",
+      "q": "Mention the dangerous temperature  zone for food ආහාර-පාන සදහා අන්තරායක උෂ්ණත්ව පරාසය සෙල්සියස් අංශක වලින් දක්වන්න",
+      "opts": [
+        "0°C to 4°C",
+        "65°C to 75°C",
+        "80°C to 100°C",
+        "5°C to 60°C"
+      ],
+      "correct": [
+        3
+      ],
+      "image": "food-17.png"
+    },
+    {
+      "id": "food-18",
+      "section": "Food Safety & Hygiene",
+      "q": "Mention the hot-holding temperature range in degrees Celsius උණුසුම් ආහාර-පාන උණුසුම්ව රදවා තබාගතයුතු උෂ්ණත්ව පරාසය සෙල්සියස් අංශක වලින් සදහන් කරන්න",
+      "opts": [
+        "60°C to 75°C",
+        "45°C to 55°C",
+        "75°C to 85°C",
+        "55°C to 65°C"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "food-19",
+      "section": "Food Safety & Hygiene",
+      "q": "What is the food re-heating temperature for normal food items (degrees Celsius) ආහාර-පාන නැවත උණුසුම් කිරීමේදී  උණුසුම් කලයුතු උෂ්ණත්ව  පරාසය සෙල්සියස් අංශක වලින් සදහන් කරන්න",
+      "opts": [
+        "60°C",
+        "70°C",
+        "75°C",
+        "85°C"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "food-20",
+      "section": "Food Safety & Hygiene",
+      "q": "Which one is not an element of ISO 22000 system අයි එස් ඕ 22000 ක්‍රමයේ අංගයක් නොවන්නේ ?",
+      "opts": [
+        "HACCP එච්. ඒ. සී. සී. පි.",
+        "Interactive communication අන්තර් සන්නිවෙධනය",
+        "Management commitment කළමණාකාරිත්වයේ කැපවීම",
+        "Annual fire drill වාර්ෂික ගිණි පුහුණු සැසිය",
+        "Pre-requisites පුර්ව අවශ්‍යථා සපුරාලීම"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "espresso-1",
+      "section": "Espresso & Specialty Drinks",
+      "q": "What is Espresso Con Panna? එස්ප්‍රෙසෝ කොන් පනා යනු කුමක්ද?",
+      "opts": [
+        "Espresso with whipped cream on top. විප්ඩ් ක්‍රීම් සහිත එස්ප්‍රෙසෝ.",
+        "Espresso with milk on top. කිරි සමග එස්ප්‍රෙසෝ.",
+        "Espresso with milk froth on top. කිරි පෙණ සහිත එස්ප්‍රෙසෝ.",
+        "Espresso with chocolate powder on top. චොකලට් කුඩු සමග එස්ප්‍රෙසෝ."
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "espresso-2",
+      "section": "Espresso & Specialty Drinks",
+      "q": "How many ml of syrup will be put in making an Iced Flavored Latte? අයිස් ෆ්ලේවඩ් ලාතේ සෑදීම සඳහා සිරප් මිලි ලීටර් කීයක් යොදනු ලැබේද?",
+      "opts": [
+        "40ml මිලි ලීටර් 40",
+        "10ml මිලි ලීටර් 10",
+        "30ml මිලි ලීටර් 30",
+        "20ml මිලි ලීටර් 20"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "espresso-3",
+      "section": "Espresso & Specialty Drinks",
+      "q": "How many scoops of chocolate powder will be used to make an Iced Chocolate? අයිස් චොක්ලට් එකක් සෑදීමට චොක්ලට් කුඩු හැඳි කීයක් භාවිතා කරනවාද?",
+      "opts": [
+        "Five scoops හැඳි පහක්",
+        "Three scoops හැඳි තුනක්",
+        "One scoop එක හැන්දක්",
+        "Two scoops හැඳි දෙකක්"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "espresso-4",
+      "section": "Espresso & Specialty Drinks",
+      "q": "What is the thickness of milk froth on an Iced Cappuccino? අයිස් කැපුචිනෝ එකක කිරි පෙණ වල  ඝනකම කොපමණද?",
+      "opts": [
+        "1inch අඟල් 1",
+        "1cm 1සෙ.මී",
+        "2cm 2සෙ.මී",
+        "0.5cm 0.5සෙ.මී"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "espresso-5",
+      "section": "Espresso & Specialty Drinks",
+      "q": "Why is it not appropriate to put the sugar syrup in for an Iced Tea without asking the customer? පාරිභෝගිකයාගෙන් අහන්නේ නැතුව සීනි සිරප් එක අයිස් තේ එකකට දාන එක සුදුසු නැත්තෙ ඇයි?",
+      "opts": [
+        "Customer didn't ask for it. පාරිභෝගිකයා එය ඉල්ලා සිටියේ නැත.",
+        "It looked like the customer was not interested in sugar.පාරිභෝගිකයාට සීනි ගැන උනන්දුවක් නැති බව පෙනුන නිසා.",
+        "We don't like the customer. පාරිභෝගිකයාට අකැමති නිසා.",
+        "Not sure on the customer preference. පාරිභෝගික මනාපය ගැන විශ්වාස නොමැති නිසා."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "espresso-6",
+      "section": "Espresso & Specialty Drinks",
+      "q": "How many pumps of chocolate sauce will be used to make a Pure Double Chocolate Iced Blended Drink? පියෝ ඩබල් චොක්ලට් අයිස් මිශ්‍ර පානයක් සෑදීමට චොකලට් සෝස් පොම්ප කීයක් භාවිතා කරයිද?",
+      "opts": [
+        "Four pumps පොම්ප හතරක්",
+        "One pump එක් පොම්පයක්",
+        "Two pumps පොම්ප දෙකක්",
+        "Three pumps පොම්ප තුනක්"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "espresso-7",
+      "section": "Espresso & Specialty Drinks",
+      "q": "What is this called? මෙය හඳුන්වන්නේ කුමන නමකින්ද?",
+      "opts": [
+        "Over Ice Drink අයිස් සහිත බීම",
+        "Iced Blended Drink අයිස් මිශ්‍ර බීම",
+        "Affogato ඇෆගාතෝ",
+        "Iced Tea අයිස් තේ"
+      ],
+      "correct": [
+        2
+      ],
+      "image": "espresso-7.png"
+    },
+    {
+      "id": "espresso-8",
+      "section": "Espresso & Specialty Drinks",
+      "q": "How many ml of Caramel sauce will be used to make a Pure Caramel Iced Blended Drink? පියෝ කැරමල් අයිස් මිශ්‍ර පානයක් සෑදීමට කැරමල් සෝස් මිලිමීටර් කීයක් භාවිතා කරයිද?",
+      "opts": [
+        "Five pumps පොම්ප පහක්",
+        "Four pumps පොම්ප හතරක්",
+        "Two pumps පොම්ප දෙකක්",
+        "Three pumps පොම්ප තුනක්"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "espresso-9",
+      "section": "Espresso & Specialty Drinks",
+      "q": "How many grams of Vanilla powder in a scoop? වැනිලා කුඩු ග්‍රෑම් කීයක් හැන්දක තිබේද?",
+      "opts": [
+        "15g ග්රෑම් 15 යි",
+        "30g ග්රෑම් 30",
+        "10g ග්රෑම් 10 යි",
+        "45g ග්රෑම් 45"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "espresso-10",
+      "section": "Espresso & Specialty Drinks",
+      "q": "What is not a Fruity Iced Blended Drink from the below? පහත සඳහන් අයිස් බීම වලින් පලතුරු රස සහිත එකක් නොවන්නේ කුමක්ද?",
+      "opts": [
+        "Strawberry Iced Blended Drink ස්ට්‍රෝබෙරි අයිස් මිශ්‍ර බීම",
+        "Coffee Caramel Iced Blended Drink කෝපි කැරමල් අයිස් මිශ්‍ර බීම",
+        "Mango Iced Blended Drink අඹ අයිස් මිශ්‍ර බීම",
+        "Blueberry Iced Blended Drink බ්ලූබෙරි අයිස් මිශ්‍ර බීම"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "menu-1",
+      "section": "Menu Planning & Costing",
+      "q": "What is a menu? මෙනුවක් යනු කුමක්ද?",
+      "opts": [
+        "A small printed list due to reduced printing costs, originating from a French word meaning tiny or minute. මුද්‍රණ පිරිවැය අඩු වීම හේතුවෙන් කුඩා මුද්‍රිත ලැයිස්තුවක්, කුඩා හෝ මිනිත්තු යන අර්ථය ඇති ප්‍රංශ වචනයකින් ආරම්භ වේ.",
+        "A large board displayed on a wall in the restaurant with food and beverage items. ආහාර පාන ද්‍රව්‍ය සහිත අවන්හලේ බිත්තියක ප්‍රදර්ශනය කර ඇති විශාල පුවරුවක්.",
+        "All of the above. ඉහත සියල්ල.",
+        "A list of food and beverage items available to the customer. පාරිභෝගිකයාට ලබා ගත හැකි ආහාර සහ පාන වර්ග ලැයිස්තුවක්."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "menu-2",
+      "section": "Menu Planning & Costing",
+      "q": "Market segmentation often considers which of the following characteristics to categorize customers? වෙළඳපල ඛණ්ඩනය බොහෝ විට පාරිභෝගිකයින් වර්ගීකරණය කිරීම සඳහා පහත සඳහන් කුමන ලක්ෂණ සලකා බලයිද ?",
+      "opts": [
+        "Brand preferences and loyalty programs only. සන්නාම මනාප සහ පක්ෂපාතී වැඩසටහන් පමණි.",
+        "Age, income level, gender, and social/cultural backgrounds. වයස, ආදායම් මට්ටම, ස්ත්‍රී පුරුෂ භාවය සහ සමාජ/සංස්කෘතික පසුබිම.",
+        "Store location and preferred payment methods. ගබඩා ස්ථානය සහ කැමති ගෙවීම් ක්‍රම.",
+        "Frequency of visits and preferred staff members. පැමිණීමේ වාර ගණන සහ කැමති කාර්ය මණ්ඩල සාමාජිකයින්."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "menu-3",
+      "section": "Menu Planning & Costing",
+      "q": "What factors should be considered for menu balance?මෙනු වල සමතුලිතතාවය සලකා බැලිය යුතු සාධක මොනවාද?",
+      "opts": [
+        "Price, Popularity, Customer feedback, Marketing strategies මිල, ජනප්‍රියතාවය, පාරිභෝගික ප්‍රතිපෝෂණය, අලෙවි වැඩසටහන්",
+        "Colour, Ingredients, Flavours, Preparation methods, Texture, Course sequence වර්ණය, අමුද්‍රව්‍ය, රස, පිළියෙල කිරීමේ ක්‍රම, පාට, පාඨමාලා අනුක්‍රමය",
+        "Table arrangement, Lighting, Cutlery design, Menu font size මේස සැලසුම, ආලෝකකරණය, කටුකම සහිත ලිප්, මෙනු අක්ෂර විශාලත්වය",
+        "Location, Ambiance, Music selection, Staff uniforms ස්ථානය, පරිසරය, සංගීත තේරීම, සේවකයෝගේ ඇදුම්"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "menu-4",
+      "section": "Menu Planning & Costing",
+      "q": "What factors should be considered in menu design?මෙනු සැලසුම විශිෂ්ට කිරීම සඳහා සලකා බැලිය යුතු කරුණු මොනවාද?",
+      "opts": [
+        "Rich look, Graphical accompaniments, Clear descriptions, Spicy or not, Vegan or not, Pork/Beef, Halal, Clearly priced, No cheating, Easy to handle menu size, Categories of items සුන්දර පෙනුම, චිත්‍ර සහිත අංග, පැහැදිලි විස්තර, කටු කෙරුම නැද්ද, වෙගන් ද නැද්ද, ඌරු/මස්, හලාල්, පැහැදිලි මිල ගණන්, වංචා නොකරනවා, පහසුවෙන් ආශ්‍රය කළ හැකි මෙනු ප්‍රමාණය, අයිතම කාණ්ඩ",
+        "Weather forecast, Music playlist, Flower arrangements, Candle color කාලගුණ පුවත්, සංගීත ප්ලේලිස්ට්, මල් සැරසිලි",
+        "Chef's favorite dishes, Staff schedules, Kitchen equipment, Tablecloth patterns ශෙෆ්ගේ කැමති කෑම, සේවක කාලසටහන, කුස්සියේ උපකරණ, මේසපත් රටා",
+        "Number of seats in the restaurant, Location, Parking availability, Hours of operation ආපන ශාලාවේ ආසන ගණන, ස්ථානය, වාහන නැවැත්වීමේ පහසුකම්, ක්‍රියාකාරිත්ව වේලාවන්"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "menu-5",
+      "section": "Menu Planning & Costing",
+      "q": "What are the types of menus? මෙනු වර්ග මොනවාද?",
+      "opts": [
+        "Common F&B menu, Common Beverage menu, Cocktail menu, Coffee menu, Tea menu, Wine menu, Food/snack menu පොදු F&B මෙනුව, පොදු බීම මෙනුව, කොක්ටේල් මෙනුව, කෝපි මෙනුව, තේ මෙනුව, වයින් මෙනුව, ආහාර/සුළු කෑම මෙනුව",
+        "Weekly menu, Monthly menu, Seasonal menu, Holiday menu, Daily specials සතිපතා මෙනුව, මාසික මෙනුව, සෘතුමය මෙනුව, නිවාඩු මෙනුව, දෛනික විශේෂ",
+        "Breakfast menu, Lunch menu, Dinner menu, Dessert menu, Special diet menu, Kids menu උදෑසන ආහාර මෙනුව, දිවා ආහාර මෙනුව, රාත්‍රී ආහාර මෙනුව, අතුරුපස මෙනුව, විශේෂ ආහාර මෙනුව, ළමා මෙනුව",
+        "Outdoor menu, Indoor menu, Digital menu, Printed menu, Mobile app menu එළිමහන් මෙනුව, ගෘහස්ථ මෙනුව, ඩිජිටල් මෙනුව, මුද්‍රිත මෙනුව, ජංගම යෙදුම් මෙනුව"
+      ],
+      "correct": [
+        0
+      ]
+    },
+    {
+      "id": "menu-6",
+      "section": "Menu Planning & Costing",
+      "q": "What are the menu styles? මෙනු විලාසිතා මොනවාද?",
+      "opts": [
+        "A la Carte, Table d'Hote / Set menu, Degustation, Buffet menu, Novelty menus අභිරුචි තේරීම්, කෑම විකල්ප සැකසීම, සූපශාස්ත්‍ර ගවේෂණය, සුවිශේෂී ගනුදෙනු, නිර්මාණාත්මක ඉදිරිපත් කිරීම්",
+        "All of the above ඉහත සදහන් සියල්ලම",
+        "Lunch, Dinner, Supper, Dessert, Brunch උදෑසන ආහාරය, දිවා ආහාරය, රාත්‍රී ආහාරය, දහවල් ආහාරය,",
+        "A la Carte, Table d'Hote / Set menu, Degustation, Daily specials, Novelty menus තනි පුද්ගල තේරීම, ස්ථාවර ආහාර වේල, රස බැලීමේ මෙනුව, දවසේ විශේෂ, අද්විතීය දීමනා",
+        "Buffet menu, Breakfast, lunch, dinner menus, Morning & afternoon tea menus බුෆේ විලාසය, කාලය-විශේෂිත මෙනු, තේ කාල තේරීම්, විවිධ කෑම වර්ග"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "menu-7",
+      "section": "Menu Planning & Costing",
+      "q": "A menu item with high profitability but low customer demand would be classified as a: ඉහළ ලාභදායී නමුත් අඩු පාරිභෝගික ඉල්ලුමක් සහිත මෙනු අයිතමයක් ලෙස වර්ගීකරණය කරනු ලබන්නේ",
+      "opts": [
+        "STAR තරුව",
+        "DOG සුනඛයා",
+        "HORSE අශ්වයා",
+        "PUZZLE ප්‍රහේලිකාව"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "menu-8",
+      "section": "Menu Planning & Costing",
+      "q": "A new restaurant is launching its menu and wants to prioritize dishes that are expected to be highly profitable but may take some time to gain popularity. Based on the categorization system, these items would be classified as: නව අවන්හලක් එහි මෙනුව දියත් කරමින් සිටින අතර ඉහළ ලාභයක් අපේක්ෂා කරන නමුත් ජනප්‍රියත්වය ලබා ගැනීමට යම් කාලයක් ගත විය හැකි කෑම වර්ගවලට ප්‍රමුඛත්වය දීමට අවශ්‍ය වේ. වර්ගීකරණ පද්ධතිය මත පදනම්ව, මෙම අයිතම වර්ගීකරණය කරනු ලැබේ:",
+      "opts": [
+        "STAR තරුව",
+        "DOG සුනඛයා",
+        "PUZZLE ප්‍රහේලිකාව",
+        "HORSE අශ්වයා"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "menu-9",
+      "section": "Menu Planning & Costing",
+      "q": "A restaurant is looking to revamp its menu and identify its most profitable items. They're considering keeping dishes that generate high sales and contribute significantly to the overall revenue. Based on the categorization system, these items would be classified as: අවන්හලක් එහි මෙනුව ප්‍රතිසංස්කරණය කිරීමට සහ එහි වඩාත්ම ලාභදායී අයිතම හඳුනා ගැනීමට අපේක්ෂා කරයි. ඉහළ අලෙවියක් උත්පාදනය කරන සහ සමස්ත ආදායමට සැලකිය යුතු දායකත්වයක් සපයන කෑම වර්ග තබා ගැනීමට ඔවුන් සලකා බලයි. වර්ගීකරණ පද්ධතිය මත පදනම්ව, මෙම අයිතම වර්ගීකරණය කරනු ලබන්නේ?",
+      "opts": [
+        "PUZZLE ප්‍රහේලිකාව",
+        "HORSE අශ්වයා",
+        "STAR තරුව",
+        "DOG සුනඛයා"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "menu-10",
+      "section": "Menu Planning & Costing",
+      "q": "A restaurant is reviewing its menu performance and wants to identify items that are consistently popular with customers but generate a lower profit margin. These items would likely be classified as: අවන්හලක් එහි මෙනු කාර්ය සාධනය සමාලෝචනය කරමින් සිටින අතර පාරිභෝගිකයින් අතර නිරන්තරයෙන් ජනප්‍රිය නමුත් අඩු ලාභ ආන්තිකයක් ජනනය කරන අයිතම හඳුනා ගැනීමට අවශ්‍ය වේ. මෙම අයිතම බොහෝ විට වර්ගීකරණය කළ හැක්කේ ?",
+      "opts": [
+        "STAR තරුව",
+        "DOG සුනඛයා",
+        "HORSE අශ්වයා",
+        "PUZZLE ප්‍රහේලිකාව"
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "menu-11",
+      "section": "Menu Planning & Costing",
+      "q": "A proper costing system is essential for businesses because it helps to: ව්‍යාපාර සඳහා නිසි පිරිවැය පද්ධතියක් අත්‍යවශ්‍ය වන්නේ කුමක් නිසාද?",
+      "opts": [
+        "Improve employee morale only. සේවක චිත්ත ධෛර්යය වැඩි දියුණු කිරීම පමණි.",
+        "Enhance brand image and customer satisfaction only. සන්නාම ප්‍රතිරූපය සහ පාරිභෝගික තෘප්තිය පමණක් වැඩි දියුණු කරන්න.",
+        "Maximize profit, minimize wastage, and stay in business. ලාභය උපරිම කිරීම, නාස්තිය අවම කිරීම සහ ව්‍යාපාරයේ රැඳී සිටීම.",
+        "Increase marketing reach and brand awareness only. අලෙවිකරණ ප්‍රවේශය වැඩි කිරීම සහ වෙළඳ නාම දැනුවත් කිරීම පමණි."
+      ],
+      "correct": [
+        2
+      ]
+    },
+    {
+      "id": "menu-12",
+      "section": "Menu Planning & Costing",
+      "q": "Which of the following practices are most important for supporting a proper costing system? නිසි පිරිවැය පද්ධතියකට සහාය වීම සඳහා පහත සඳහන් පරිචයන් අතරින් වඩාත් වැදගත් වන්නේ කුමක්ද?",
+      "opts": [
+        "Menu design and food photography only. මෙනු නිර්මාණය සහ ආහාර ඡායාරූපකරණය පමණි.",
+        "Portion control, yield testing, standard recipes, sales analysis, and store management systems. කොටස් පාලනය, අස්වැන්න පරීක්ෂා කිරීම, සම්මත වට්ටෝරු, විකුණුම් විශ්ලේෂණය සහ ගබඩා කළමනාකරණ පද්ධති.",
+        "Staff training programs and customer feedback surveys only. කාර්ය මණ්ඩල පුහුණු වැඩසටහන් සහ පාරිභෝගික ප්‍රතිපෝෂණ සමීක්ෂණ පමණි.",
+        "Marketing campaigns and social media presence only. අලෙවිකරණ ව්‍යාපාර සහ සමාජ මාධ්‍ය පැමිණීම පමණි."
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "menu-13",
+      "section": "Menu Planning & Costing",
+      "q": "What is the primary purpose of yield testing in a foodservice operation? ආහාර සේවා මෙහෙයුමකදී අස්වැන්න පරීක්ෂා කිරීමේ මූලික අරමුණ කුමක්ද?",
+      "opts": [
+        "To identify the most popular menu items among customers. පාරිභෝගිකයන් අතර වඩාත් ජනප්‍රිය මෙනු අයිතම හඳුනා ගැනීමට.",
+        "To determine the visual appeal of a finished dish. නිම කරන ලද කෑම පිගානක දෘශ්‍ය ආකර්ෂණය තීරණය කිරීම.",
+        "To establish the ideal cooking temperature for different foods. විවිධ ආහාර සඳහා සුදුසු පිසීමේ උෂ්ණත්වය ස්ථාපිත කිරීම.",
+        "To calculate the usable percentage of a product or ingredient after processing. සැකසීමෙන් පසු නිෂ්පාදනයක් හෝ අමුද්‍රව්‍යයක් භාවිතා කළ හැකි ප්‍රතිශතය ගණනය කිරීමට."
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "menu-14",
+      "section": "Menu Planning & Costing",
+      "q": "Which of the following elements are MOST crucial for a standard recipe to be effective? සම්මත වට්ටෝරුවක් ඵලදායී වීමට පහත සඳහන් දේවලින් වඩාත් වැදගත් වන්නේ කුමක්ද?",
+      "opts": [
+        "Chef's notes and creative inspiration. චෙෆ්ගේ සටහන් සහ නිර්මාණාත්මක ආශ්වාදය",
+        "Garnish and service details only. සැරසිලි සහ සේවා විස්තර පමණි",
+        "Nutritional information and calorie count පෝෂණ තොරතුරු සහ කැලරි ගණන",
+        "Summary of ingredients, required quantities, and specific preparation guidelines. අමුද්‍රව්‍යවල සාරාංශය, අවශ්‍ය ප්‍රමාණයන් සහ නිශ්චිත සකස් කිරීමේ මාර්ගෝපදේශ"
+      ],
+      "correct": [
+        3
+      ]
+    },
+    {
+      "id": "menu-15",
+      "section": "Menu Planning & Costing",
+      "q": "A manager is analyzing beverage sales data and notices that the beverage cost percentage has been steadily increasing. This could be a sign of: කළමනාකරුවෙකු බීම අලෙවි දත්ත විශ්ලේෂණය කරන අතර බීම මිල ප්‍රතිශතය ක්‍රමයෙන් වැඩි වෙමින් පවතින බව දැනුම් දෙයි. මෙය ලකුණක් විය හැක්කේ",
+      "opts": [
+        "A recent marketing campaign that successfully boosted beverage sales. බීම අලෙවිය සාර්ථකව ඉහළ නැංවූ මෑත අලෙවිකරණ ව්‍යාපාරයක්.",
+        "Inefficiencies in beverage preparation, leading to higher ingredient waste. බීම සැකසීමේ අකාර්යක්ෂමතාව, ඉහළ සංඝටක අපද්රව්ය වලට තුඩු දෙයි.",
+        "Increased customer demand for higher-priced beverages. ඉහළ මිලක් සහිත බීම සඳහා පාරිභෝගික ඉල්ලුම වැඩි වීම.",
+        "The need to raise beverage prices to maintain profitability. **(Raising prices is a response, not a cause of rising cost percentage) ලාභදායිත්වය පවත්වා ගැනීම සඳහා බීම මිල වැඩි කිරීමේ අවශ්යතාව. ** (මිල ඉහළ නැංවීම ප්‍රතිචාරයක් මිස පිරිවැය ප්‍රතිශතය ඉහළ යාමට හේතුවක් නොවේ)"
+      ],
+      "correct": [
+        1
+      ]
+    },
+    {
+      "id": "menu-16",
+      "section": "Menu Planning & Costing",
+      "q": "The markup price on a product refers to: නිෂ්පාදනයේ සලකුණු මිල සඳහන් වන්නේ:",
+      "opts": [
+        "The difference between the wholesale price and the selling price to a retailer. සිල්ලර වෙළෙන්දෙකුට තොග මිල සහ විකුණුම් මිල අතර වෙනස.",
+        "The cost of materials and labor used to produce the good. භාණ්ඩ නිෂ්පාදනය සඳහා භාවිතා කරන ද්රව්ය සහ ශ්රමයේ පිරිවැය.",
+        "The additional amount added to the cost price to arrive at the selling price. විකුණුම් මිලට පැමිණීම සඳහා පිරිවැය මිලට එකතු කරන ලද අතිරේක මුදල.",
+        "A fixed discount offered to customers during a sale. විකිණීමකදී පාරිභෝගිකයින්ට ලබා දෙන ස්ථාවර වට්ටමක්."
+      ],
+      "correct": [
+        2
+      ]
+    }
+  ]
+}
