@@ -1,0 +1,25 @@
+{
+  "name": "brew-test",
+  "version": "1.0.0",
+  "description": "A bilingual (English / Sinhala) café knowledge quiz — 146 questions on coffee, tea and café operations, reshuffled every attempt.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "python tools/build_standalone.py",
+    "test": "node tests/smoke.test.mjs",
+    "check": "npm run build && npm test"
+  },
+  "devDependencies": {
+    "jsdom": "^26.0.0"
+  },
+  "keywords": [
+    "quiz",
+    "coffee",
+    "barista",
+    "sinhala",
+    "vanilla-js",
+    "no-dependencies"
+  ]
+}

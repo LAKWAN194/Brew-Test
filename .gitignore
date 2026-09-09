@@ -1,0 +1,15 @@
+# Build output — regenerate with `npm run build`
+dist/
+
+# Dependencies
+node_modules/
+
+# Original single-file prototype this repo was refactored from
+brew_test_quiz.html
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
