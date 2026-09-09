@@ -1,0 +1,89 @@
+LETS <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Brew Test — Café Knowledge Quiz</title>
+<meta name="description" content="A bilingual (English / Sinhala) self-assessment quiz on coffee, tea and café operations. 146 questions across 9 topics, reshuffled every attempt.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>☕</text></svg>">
+<link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+<div class="wrap">
+
+  <div class="brand"><span class="mark">☕</span></div>
+  <h1>The Brew Test</h1>
+  <p class="tagline">Questions on coffee, tea &amp; café operations — shuffled fresh every time.</p>
+
+  <!-- ============ START SCREEN ============ -->
+  <div id="start-screen">
+    <div class="card">
+      <p class="field-label">Choose topics</p>
+      <div class="toggle-links">
+        <button type="button" id="select-all-btn">Select all</button>
+        <button type="button" id="select-none-btn">Select none</button>
+      </div>
+      <div class="section-list" id="section-list"></div>
+    </div>
+
+    <div class="card">
+      <p class="field-label">Number of questions</p>
+      <div class="count-row">
+        <input type="range" id="count-slider" min="1" max="1" value="1">
+        <span class="count-num" id="count-num">1</span>
+      </div>
+      <p class="err-note" id="err-note">Pick at least one topic to continue.</p>
+      <button class="btn block" id="start-btn">Start quiz</button>
+    </div>
+  </div>
+
+  <!-- ============ QUIZ SCREEN ============ -->
+  <div id="quiz-screen" class="hidden">
+    <div class="quiz-top">
+      <span class="progress-text" id="progress-text">Question 1 of 1</span>
+      <span class="topic-tag" id="topic-tag">Topic</span>
+    </div>
+    <div class="cup-bar"><div class="cup-bar-fill" id="cup-bar-fill" style="width:0%"></div></div>
+
+    <div class="card">
+      <div id="q-image-slot"></div>
+      <div class="q-text" id="q-text"></div>
+      <div class="multi-note hidden" id="multi-note">Select all that apply.</div>
+      <div id="opts-container"></div>
+    </div>
+
+    <div class="nav-row">
+      <button class="btn secondary" id="prev-btn">← Previous</button>
+      <button class="btn" id="next-btn">Next →</button>
+    </div>
+  </div>
+
+  <!-- ============ RESULTS SCREEN ============ -->
+  <div id="results-screen" class="hidden">
+    <div class="card score-hero">
+      <p class="field-label" style="text-align:center;">Your score</p>
+      <p class="score-num" id="score-num">0 / 0</p>
+      <p class="score-sub" id="score-pct">0%</p>
+      <p class="score-msg" id="score-msg"></p>
+      <div class="btn-row" style="justify-content:center; margin-top:16px;">
+        <button class="btn" id="retake-btn">Retake (reshuffled)</button>
+        <button class="btn secondary" id="new-setup-btn">Change topics</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <p class="field-label" style="margin-bottom:14px;">Review answers</p>
+      <div class="filter-row">
+        <button class="filter-chip active" data-filter="all" type="button">All</button>
+        <button class="filter-chip" data-filter="wrong" type="button">Missed only</button>
+      </div>
+      <div id="review-container"></div>
+    </div>
+  </div>
+
+  <footer>Made for quizzing yourself &amp; friends. Reshuffles every attempt.</footer>
+</div>
+
+<script src="assets/js/app.js"></script>
+</body>
+</html>
