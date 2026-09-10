@@ -7,7 +7,7 @@ Built as a dependency-free static site: no framework, no build step required to
 run it, no backend. Roughly 350 lines of vanilla JavaScript against a JSON
 question bank.
 
-> **Live demo:** _add your GitHub Pages URL here once published_ —
+> **Live demo:** _https://github.com/LAKWAN194/Brew-Test_ —
 > see [Deploying](#deploying).
 
 <!-- Add a screenshot once deployed:
