@@ -55,7 +55,7 @@ The page fetches its question bank, so it needs to be served over HTTP rather
 than opened straight from disk:
 
 ```bash
-git clone https://github.com/<your-username>/brew-test.git
+git clone https://github.com/LAKWAN194/brew-test.git
 cd brew-test
 python -m http.server 8000     # or: npx serve
 ```
