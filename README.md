@@ -1,18 +1,21 @@
 # ☕ The Brew Test
 
+[![CI](https://github.com/LAKWAN194/Brew-Test/actions/workflows/ci.yml/badge.svg)](https://github.com/LAKWAN194/Brew-Test/actions/workflows/ci.yml)
+![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?logo=javascript&logoColor=black)
+![Dependencies](https://img.shields.io/badge/runtime%20dependencies-0-brightgreen)
+![Languages](https://img.shields.io/badge/languages-English%20%2F%20Sinhala-8B5A2B)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 A bilingual (English / Sinhala) self-assessment quiz on coffee, tea and café
 operations — **146 questions across 9 topics**, reshuffled on every attempt.
 
 Built as a dependency-free static site: no framework, no build step required to
-run it, no backend. Roughly 350 lines of vanilla JavaScript against a JSON
+run it, no backend. About 400 lines of vanilla JavaScript against a JSON
 question bank.
 
-> **Live demo:** _https://github.com/LAKWAN194/Brew-Test_ —
-> see [Deploying](#deploying).
+**▶ Try it live: [lakwan194.github.io/Brew-Test](https://lakwan194.github.io/Brew-Test/)**
 
-<!-- Add a screenshot once deployed:
-![The Brew Test](docs/screenshot.png)
--->
+![A five-question run: picking three topics, answering a question with a roast-colour photo, scoring 4 out of 5, then filtering the review to the one missed question](docs/images/demo.gif)
 
 ---
 
@@ -34,15 +37,20 @@ question bank.
 Both the question order *and* the option order are shuffled per attempt, so
 repeated runs can't be passed by memorising answer positions.
 
+It is built for phones as much as desktops, since that is where café staff
+will open it:
+
+![The start screen, a question with a reference photo, and the results screen on a phone](docs/images/mobile.png)
+
 ## Topics
 
 | Section | Questions |
 | --- | ---: |
 | Introduction to Coffee | 20 |
 | Hot Beverages | 10 |
-| Coffee Houses & Café Concepts | 20 |
+| Coffee Houses & Cafe Concepts | 20 |
 | Manual Brewing & Alcoholic Coffee | 10 |
-| Café Operational Standards | 20 |
+| Cafe Operational Standards | 20 |
 | Tea | 20 |
 | Food Safety & Hygiene | 20 |
 | Espresso & Specialty Drinks | 10 |
@@ -84,7 +92,7 @@ That file opens by double-clicking and needs no network.
 ├── index.html                     # markup and screen scaffolding
 ├── assets/
 │   ├── css/styles.css             # all styling; custom-property theme
-│   ├── js/app.js                  # quiz logic, ~350 lines, no dependencies
+│   ├── js/app.js                  # quiz logic, ~400 lines, no dependencies
 │   └── img/questions/             # reference photos for 7 questions
 ├── data/
 │   └── questions.json             # the question bank
@@ -92,6 +100,7 @@ That file opens by double-clicking and needs no network.
 │   └── build_standalone.py        # inlines everything into dist/brew-test.html
 ├── tests/
 │   └── smoke.test.mjs             # jsdom end-to-end tests for both builds
+├── docs/images/                   # README demo GIF and screenshots
 └── .github/workflows/ci.yml       # build + test on every push
 ```
 
@@ -140,12 +149,16 @@ npm run check      # build the standalone file, then run the suite
 
 ## Deploying
 
-The repo is a static site, so GitHub Pages serves it as-is:
+The live site is served by GitHub Pages straight from `main`, so every push to
+`main` redeploys it. The repo is a static site, so nothing needs building. To
+host your own copy:
 
-1. Push to GitHub.
+1. Fork or push the repo to GitHub.
 2. **Settings → Pages → Source: Deploy from a branch**, branch `main`, folder `/ (root)`.
-3. The site appears at `https://<your-username>.github.io/<repo>/`. Put that URL
-   in the **Live demo** line at the top of this file.
+3. The site appears at `https://<your-username>.github.io/<repo>/`.
+
+The empty `.nojekyll` file tells Pages to serve the files as they are, without
+running them through Jekyll.
 
 ## Notes
 
