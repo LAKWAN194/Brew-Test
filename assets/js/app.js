@@ -20,12 +20,14 @@
 
 const DATA_URL   = 'data/questions.json';
 const IMAGE_BASE = 'assets/img/questions/';
+const DEFAULT_COUNT = 20;
 
 /* =========================================================
    STATE
    ========================================================= */
 let QUESTIONS = [];
 let SECTIONS  = [];
+let wantedCount = DEFAULT_COUNT;  // quiz length the user asked for; capped at what the chosen topics hold
 
 const state = {
   pool: [],     // questions drawn for this attempt, options pre-shuffled
@@ -152,13 +154,15 @@ function updateAvailablePool(){
     return;
   }
   errNote.style.display = 'none';
-  const prev = parseInt(countSlider.value,10) || total;
   countSlider.max = total;
-  countSlider.value = Math.min(prev, total) || total;
+  countSlider.value = Math.min(wantedCount, total);
   countNum.textContent = countSlider.value;
 }
 
-countSlider.addEventListener('input', ()=>{ countNum.textContent = countSlider.value; });
+countSlider.addEventListener('input', ()=>{
+  wantedCount = parseInt(countSlider.value,10);
+  countNum.textContent = countSlider.value;
+});
 
 document.getElementById('select-all-btn').addEventListener('click', ()=>{
   sectionListEl.querySelectorAll('.sec-check').forEach(cb=>cb.checked=true);

@@ -63,12 +63,15 @@ function exercise(w, label) {
     ? [...d.querySelectorAll(".count-pill")].reduce((n, e) => n + +e.textContent, 0) : 0;
   check(`${label}: section counts sum to 146`, total === 146, `got ${total}`);
   check(`${label}: slider max = 146`, $("#count-slider").max === "146", $("#count-slider").max);
+  check(`${label}: slider defaults to 20`, $("#count-slider").value === "20", $("#count-slider").value);
 
   // "select none" disables start
   $("#select-none-btn").click();
   check(`${label}: select none -> error note`, $("#err-note").style.display === "block");
   $("#select-all-btn").click();
   check(`${label}: select all -> no error`, $("#err-note").style.display === "none");
+  check(`${label}: select all -> slider back to 20`, $("#count-slider").value === "20",
+    $("#count-slider").value);
 
   // start a 10 question quiz
   $("#count-slider").value = "10";
